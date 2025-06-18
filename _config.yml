@@ -63,6 +63,10 @@ page_gen:
     extension: 'html'
     filter: 'objectid'  
 
+# init the histories collection
+collections:
+  - histories
+
 ##########
 # Site/Organization Branding 
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo

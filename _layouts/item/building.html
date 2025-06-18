@@ -53,9 +53,14 @@ item-meta: true
             {% if page.architect %}
             <p><strong>Architect:</strong> {{ page.architect }}</p>
             {% endif %}
-            {% if page.history %}
-            <p><strong>History:</strong> {{ page.history }}</p>
+
+            {% assign history = site.histories | where: 'buildingid', page.objectid | first %}
+            {% assign history_content = history.content | strip %}
+            {% if history_content != "" %}
+            <h2>History</h2>
+            {{ history_content }}
             {% endif %}
+            
             {% if page.description %}
             <p><strong>Description:</strong> {{ page.description }}</p>
             {% endif %}
