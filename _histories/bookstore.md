@@ -1,0 +1,6 @@
+---
+buildingid: bookstore
+title: Bookstore
+---
+
+
