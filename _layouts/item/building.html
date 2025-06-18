@@ -29,10 +29,10 @@ item-meta: true
 
         <div class="col-md-6 p-3">
             <figure class="figure mx-3 text-center">
-                <a href="{{ '/items/' | append: page.related-objectid | append: '.html' | relative_url }}">
+                <a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">
                     <img class="figure-img img-fluid rounded lazyload"  alt="{{ page.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ page.image_small }}" >
                 </a>
-                <figcaption class="figure-caption"><a href="{{ '/items/' | append: page.related-objectid | append: '.html' | relative_url }}">{{ page.title }}</a></figcaption>
+                <figcaption class="figure-caption"><a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">{{ page.title }}</a></figcaption>
             </figure>
         </div>
 
@@ -71,7 +71,7 @@ item-meta: true
             <p><strong>Use History:</strong> {{ page.use_history }}</p>
             {% endif %}
             {% if page.date %}
-            <p><strong>Date:</strong> {{ page.dates }}</p>
+            <p><strong>Date:</strong> {{ page.archival_date }}</p>
             {% endif %}
             {% if page.date_notes %}
             <p><strong>Date Notes:</strong> {{ page.date_notes }}</p>

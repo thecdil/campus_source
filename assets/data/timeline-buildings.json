@@ -4,7 +4,7 @@
 # current using relative_url due to jekyll bug, should be absolute_url in production!
 # to just feature parent objects of compound objects, you will want to change the where_exp below to "where_exp: 'item','item.parentid == nil'"
 ---
-{%- assign items = site.data.campus-buildings | where_exp: 'item', 'item.timeline-text' -%}
+{%- assign items = site.data.campus-buildings | where_exp: 'item', 'item.date' -%}
 {
     "title": {
         "media": {
@@ -21,8 +21,8 @@
       {% for item in items %}{
         "media": {
           "url": "{{ item.image_small | default: item.image_thumb | default: item.object_location | relative_url }}",
-          "caption": "<a target='_blank' href='{{ '/items/' | relative_url }}{{ item.related-objectid }}.html'>{{ item.title }}</a>",
-          "link": "{{ '/items/' | relative_url }}{{ item.related-objectid }}.html"
+          "caption": "<a target='_blank' href='{{ '/items/' | relative_url }}{{ item.featured_image }}.html'>{{ item.title }}</a>",
+          "link": "{{ '/items/' | relative_url }}{{ item.featured_image }}.html"
 
         },
         "start_date": { 
@@ -33,8 +33,9 @@
           "year": "{{ item.date }}"{% endif %}
         },
         "text": {
-          "headline": "<a target='_blank' href='{{ '/buildings/' | relative_url }}{{ item.slug }}.html'>{{ item.title }}</a>",
-          "text": {{ item.timeline-text | jsonify }}
+          "headline": "<a target='_blank' href='{{ '/buildings/' | relative_url }}{{ item.objectid }}.html'>{{ item.title }}</a>",
+          {% capture text %}<strong>Dates:</strong> {{ item.archival_date }}<br>{% if item.cost %}<strong>Cost:</strong>{{ item.cost }}<br>{% endif %}<strong>Architect: </strong> {{ item.architect }}{% endcapture %}
+          "text": {{ text | jsonify }}
         }
       }{% unless forloop.last %},{% endunless %}{% endfor %}
     ]

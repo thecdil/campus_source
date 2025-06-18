@@ -30,7 +30,7 @@ permalink: /buildings/index.html
     {% for b in buildings %}{%- assign x = b.title | slice: 0 | capitalize -%}{%- if x == letter -%}
     <div class="col-md-4">
         <figure class="figure text-center">
-            <a href="{{ '/items/' | append: b.related-objectid | append: '.html' | relative_url }}">
+            <a href="{{ '/items/' | append: b.featured_image | append: '.html' | relative_url }}">
                 <img class="figure-img img-fluid rounded lazyload w-75"  alt="{{ b.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ b.image_thumb }}" >
             </a>
         </figure>
@@ -38,7 +38,7 @@ permalink: /buildings/index.html
     <div class="col-md-8">
         <h2 class="pt-4"><a href="{{ b.objectid | prepend: '/buildings/' | append: '.html' | relative_url }}">{{ b.title }}</a></h2>
         <p>
-            {{ b.dates }}
+            {{ b.archival_date }}
             <br>
             {{ b.location_description }}
         </p>
