@@ -4,7 +4,7 @@ gallery: true
 item-meta: true
 ---
 
-{% assign images = site.data[site.metadata] | where_exp: "item", "item.location_identifier == page.objectid" %}
+{% assign images = site.data[site.metadata] | where_exp: "item", "item.buildingid == page.objectid" %}
 
 <div class="container py-3">
     <ol class="breadcrumb">
