@@ -4,7 +4,7 @@ gallery: true
 item-meta: true
 ---
 
-{% assign images = site.data[site.metadata] | where_exp: "item", "item.location_identifier == page.slug" %}
+{% assign images = site.data[site.metadata] | where_exp: "item", "item.location_identifier == page.objectid" %}
 
 <div class="container py-3">
     <ol class="breadcrumb">
@@ -105,7 +105,7 @@ item-meta: true
     </div>
     {% endunless %}
 
-    {% assign buildingset = site.data.campus-buildings | map: 'slug' | uniq | compact %}
+    {% assign buildingset = site.data.campus-buildings | map: 'objectid' | uniq | compact %}
     {% assign last = buildingset | size | minus: 1 %}
     {% unless page.index_number == 0 %}
     {% assign back = page.index_number | minus: 1 %}

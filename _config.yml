@@ -58,10 +58,10 @@ page_gen:
   - data: 'campus'
   - data: 'campus-buildings'
     template: 'building'
-    name: 'slug'
+    name: 'objectid'
     dir: 'buildings'
     extension: 'html'
-    filter: 'slug'  
+    filter: 'objectid'  
 
 ##########
 # Site/Organization Branding 
