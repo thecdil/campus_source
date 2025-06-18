@@ -1,0 +1,13 @@
+display_name,stub,dropdown_parent
+Home,/,
+Browse,/browse.html,
+Buildings,/buildings/index.html
+Word Clouds,
+Subjects,/subjects.html,Word Clouds
+Campus Locations,/locations.html,Word Clouds
+Map,/map.html,
+Timelines,
+Campus Building Timeline,/campustimeline.html,Timelines
+Photograph Timeline,/timeline.html,Timelines
+Data,/data.html,
+About,/about.html,

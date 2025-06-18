@@ -1,0 +1,41 @@
+---
+# generate time-focused json data suitable for TimelineJS.
+# includes all items in metadata that have a "date" field filled.
+# current using relative_url due to jekyll bug, should be absolute_url in production!
+# to just feature parent objects of compound objects, you will want to change the where_exp below to "where_exp: 'item','item.parentid == nil'"
+---
+{%- assign items = site.data.campus-buildings | where_exp: 'item', 'item.timeline-text' -%}
+{
+    "title": {
+        "media": {
+          "url": "{{ site.data.featured_item.src | relative_url }}",
+          "caption": {{ site.data.featured_item.title | jsonify }},
+          "credit": {{ site.title | jsonify }}
+        },
+        "text": {
+          "headline": {{ 'University of Idaho Campus Building Timeline' | jsonify }},
+          "text": {{ 'Presenting U of I campus buildings according to their construction dates' | jsonify }}
+        }
+    },
+    "events": [
+      {% for item in items %}{
+        "media": {
+          "url": "{{ item.image_small | default: item.image_thumb | default: item.object_location | relative_url }}",
+          "caption": "<a target='_blank' href='{{ '/items/' | relative_url }}{{ item.related-objectid }}.html'>{{ item.title }}</a>",
+          "link": "{{ '/items/' | relative_url }}{{ item.related-objectid }}.html"
+
+        },
+        "start_date": { 
+          {% if item.date contains '-' %}{% assign dates = item.date | strip | split: '-' %}
+          "month": "{{ dates[1] }}",
+          "day": "{{ dates[2] }}",
+          "year": "{{ dates[0] }}"{% elsif item.date contains '/' %}"year": "{{ item.date | strip | split: '/' | last }}"{% else %}
+          "year": "{{ item.date }}"{% endif %}
+        },
+        "text": {
+          "headline": "<a target='_blank' href='{{ '/buildings/' | relative_url }}{{ item.slug }}.html'>{{ item.title }}</a>",
+          "text": {{ item.timeline-text | jsonify }}
+        }
+      }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+}
