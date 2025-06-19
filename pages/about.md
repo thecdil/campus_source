@@ -14,11 +14,11 @@ credits: true
 
 ## About the Collection
 
-The University of Idaho Library's Campus Photograph Collection is a collection of digitized historical images of the University of Idaho campus, focusing on the physical structures that populate the U of I's main campus in Moscow, Idaho. This digital collection is mostly taken from the library's Special Collections and Archive's U of I Historic Campus Photographs Collection, which is referred to as Photograph Group 1 (PG1). The collection comprises thousands of images spanning from 1889 to the early 1990s and includes photography of buildings that have been demolished, added-on-to, or moved (in a couple cases). Color images of recent buildings added to campus since the 1970s have been added for continuity.
+The University of Idaho Library's Campus Photograph Collection is a collection of digitized historical images of the University of Idaho campus, focusing on the physical structures that populate the U of I's main campus in Moscow, Idaho. This digital collection is mostly taken from the library's Special Collections and Archive's U of I Historic Campus Photographs Collection, which is referred to as Photograph Group 1 (PG1). The collection comprises thousands of images spanning from 1889 to the early 1990s and includes photography of buildings that have been demolished, added on to, or moved (in a couple cases). Color images of recent buildings added to campus since the 1970s have been added for continuity.
 
-The U of I's colleges, schools, and organizations have often changed buildings several times in campus history to accommodate cultural change and academic growth. For example, the Armory is a title that has been owned by three different buildings, one of which no longer exists. Thus, it is very important to note the dates for which one is seeking images. For example, if one is looking for a building that is not listed on our [buildings page]({{ '/buildings/' | relative_url }}) or in the drop-down menu at right, they can use the search box to find the building sought (e.g. '[infirmary]({{ '/browse.html#infirmary' | relative_url }})' or '[dairy barn]({{ '/browse.html#dairy%20barn' | relative_url }})'.) This photo collection also includes a limited number of academic activities and individuals. These images can also be found by using a keyword search (e.g. '[biological]({{ '/browse.html#biological' | relative_url }})' or '[Alf Dunn]({{ '/browse.html#alf%20dunn' | relative_url }})'.)
+The U of I's colleges, schools, and organizations have often changed buildings several times in campus history to accommodate cultural change and academic growth. For example, the Armory is a title that has been owned by three different buildings, one of which no longer exists. Thus, it is very important to note the dates for which one is seeking images. 
 
-The U of I Library Special Collections and Archives (Spec) can be found on the first floor of the U of I Library to the far left of the Circulation Desk. Researchers can contact Spec through email: [libspec@uidaho.edu](mailto:libspec@uidaho.edu); by phone: 208-885-0845; or by visiting the [Spec Reading Room](https://www.lib.uidaho.edu/special-collections/plan.html#hours). 
+For example, if one is looking for a building that is not listed on our [buildings page]({{ '/buildings/' | relative_url }}), they can use the search box to find the building sought (e.g. '[infirmary]({{ '/browse.html#infirmary' | relative_url }})' or '[dairy barn]({{ '/browse.html#dairy%20barn' | relative_url }})'). This photo collection also includes a limited number of academic activities and individuals. These images can also be found by using a keyword search (e.g. '[biological]({{ '/browse.html#biological' | relative_url }})' or '[Alf Dunn]({{ '/browse.html#alf%20dunn' | relative_url }})').
 
 {% include feature/image.html objectid="campus02264;campus00110;campus02403" %}
 
@@ -55,7 +55,7 @@ Building records cite "Sources" given with an abbreviation used in the original 
 - MG 125: Edmund Chavez. FPAC papers, 1959-1976.
 - UG 12: President's Office. Records, 1893-1965
 - UG 13: President's Office (Hartung). Papers, 1965-1977.
-- UG 39: A. T. Schenck. Papers relating to the building of Memorial Gymn, 1927-1929.
+- UG 39: A. T. Schenck. Papers relating to the building of Memorial Gym, 1927-1929.
 - UG 44: University building histories, 1890-1961
 - Facilities, Architectural and Engineering Services Website <a href="http://www.uidaho.edu/facilities/ae">http://www.uidaho.edu/facilities/ae</a>
 - Facilities, Architectural and Engineering Services Website, Dedications Plaques and Stones pdf</p>
@@ -65,4 +65,8 @@ The full original web page can be seen in the [archived Campus Buildings list](h
 
 ## Credits
 
-The University of Idaho Library's [Digital Initiatives department](https://www.lib.uidaho.edu/digital/) digitized all the photos in this collection under the direction of Estelle Sertich and Kevin Dobbins. Almost all of the content in this website was generated, vetted, or compiled via the tireless efforts of Jordan Wrigley, 125th Anniversary Intern in the Special Collections and Archives Department. We are also grateful to Michael McMullin for providing us with geolocation detecting code for the mobile map site.
+In 2013-2014 the University of Idaho Library's Digital Initiatives department digitized the photos in this collection under the direction of Estelle Sertich and Kevin Dobbins. 
+Most of the content in this website was originally generated, vetted, or compiled via the tireless efforts of Jordan Wrigley, 125th Anniversary Intern in the Special Collections and Archives department. 
+We are also grateful to Michael McMullin for providing us with geolocation detecting code for the original mobile map site.
+
+Note: this collection has been migrated into a new platform since its original creation.

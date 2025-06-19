@@ -12,7 +12,7 @@ url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /digital/campus
 # location of code, the full url to your github repository
-source-code: https://github.com/uidaholib/campus-collections-template
+source-code: https://github.com/thecdil/campus_source
 
 # url to the shared assets folder on mainweb
 digital-assets: https://www.lib.uidaho.edu/assets
@@ -33,7 +33,7 @@ title: University of Idaho Campus Photographs Collection
 tagline: Historical photographs documenting the history of the U of I Campus from 1889 to the present
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "PG1, or Photo Group 1, is a digital collection comprised of over 3000 photographs depicting the University of Idaho campus, buildings, and people. It contains images from the founding of the University in 1889 to the present day." 
+description: "The University of Idaho Campus Photographs Collection features over 3000 images depicting the campus, buildings, and people. Drawn from 'Photo Group 1' (PG1) held by Special Collections and Archives, it contains materials from the founding of the University in 1889 to the present day." 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: University of Idaho campus buildings; Idaho; history
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
