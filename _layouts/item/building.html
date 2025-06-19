@@ -47,20 +47,20 @@ item-meta: true
     </div>
 
     <div class="row justify-content-center pt-3">
-        <div class="col-md-8">
-            <h3 id="building-info">{{ page.title }}</h3>
-
-            {% if page.architect %}
-            <p><strong>Architect:</strong> {{ page.architect }}</p>
-            {% endif %}
+        <div class="col-md-8" id="building-info">
 
             {% assign history = site.histories | where: 'buildingid', page.objectid | first %}
             {% assign history_content = history.content | strip %}
             {% if history_content != "" %}
-            <h2>History</h2>
+            <h3>History</h3>
             {{ history_content }}
             {% endif %}
-            
+
+            <h3>Building Information</h3>
+
+            {% if page.architect %}
+            <p><strong>Architect:</strong> {{ page.architect }}</p>
+            {% endif %}
             {% if page.description %}
             <p><strong>Description:</strong> {{ page.description }}</p>
             {% endif %}
