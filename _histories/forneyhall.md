@@ -12,9 +12,9 @@ Forney Hall exhibits the Collegiate Gothic style with a three-story form and mis
 The brick building rests on a reinforced concrete foundation over a basement and sub-basement. The entrance tower is visually balanced by two chimneys to the south, reinforcing the stately and symmetrical design of the structure.[3]  
 
 ### Mary E. Forney
-
   Mary Emma (Belknap) Forney was a prominent figure in Moscow’s social and civic life and played an instrumental role in the establishment of the Moscow Public Library, securing funding through correspondence with Andrew Carnegie. After marrying James H. Forney and moving to Moscow, she became deeply involved in community development and supported the university’s growth. Her contributions reflect a lasting legacy in both the city and the University of Idaho.
-  ### Notes  
+
+### Notes  
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 20, 21.  
 [^2]: Ibid.  
 [^3]: Ibid. 

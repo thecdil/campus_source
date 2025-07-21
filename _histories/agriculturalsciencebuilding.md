@@ -23,9 +23,9 @@ The original building is a four-story, reinforced concrete structure with a flat
 
 
 ### Notes 
-[1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 38,39.
+[^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 38,39.
   
-[2]: Ibid, 38.  
-[3]: Ibid.  
-[4]: Ibid.  
-[5]: E.J. Iddings Papers, 1903–1953, University of Idaho Library Special Collections and Archives. Accessed July 14, 2025. https://archiveswest.orbiscascade.org/ark:80444/xv183115.
+[^2]: Ibid, 38.  
+[^3]: Ibid.  
+[^4]: Ibid.  
+[^5]: E.J. Iddings Papers, 1903–1953, University of Idaho Library Special Collections and Archives. Accessed July 14, 2025. https://archiveswest.orbiscascade.org/ark:80444/xv183115.

@@ -11,11 +11,12 @@ Construction began in 1998 and concluded in 2001, marking the final major projec
 ### Physical Description
 The 48,000-square-foot, 3.5-story building is a Contemporary design emphasizing rectilinear forms with Neo Deco-inspired elements. It is composed of steel-reinforced concrete, red-pressed brick, glass, and metal paneling, and features contrasting green tile—a material unique on campus. The east elevation showcases a central projection highlighted by horizontal fenestration bands, vertically divided by twin buttresses and clad in green tile. Dual-paned, metal-framed windows and standard ADA-compliant glass-inset metal doors appear throughout.[4]
 
- The north and west facades are marked by unornamented bands of sash windows with flush-light transoms, while the south elevation connects to the Agricultural Sciences Building. Red brick imparts a sense of collegiate continuity, while the green tile and varied projections anchor the structure firmly in 21st-century design.[5]
+ The north and west facades are marked by unornamented bands of sash windows with flush-light transoms, while the south elevation connects to the Agricultural Sciences Building. Red brick imparts a sense of collegiate continuity, while the green tile and varied projections anchor the structure firmly in 21st-century design. [5]
 
 
 ### Notes 
-[1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 64.  
-[2] Kathy Hedburg, “Biotech Building Called Key to Ag’s Future,” Lewiston Tribune, October 24, 1998.  
-[3]: Moody, “National Register of Historic Places—Registration Form,” 64.  
-[4]: Ibid, 63.  
+[^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 64.  
+[^2] Kathy Hedburg, “Biotech Building Called Key to Ag’s Future,” Lewiston Tribune, October 24, 1998.  
+[^3]: Moody, “National Register of Historic Places—Registration Form,” 64.  
+[^4]: Ibid, 63.  
+[^5]: Ibid.   

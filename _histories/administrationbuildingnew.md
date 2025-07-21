@@ -33,11 +33,11 @@ North of the flowerbed sits the  ["I" Bench](/digital/campus/items/campus00022),
 [def]: /digital/campus/buildings/albertsonbuilding
 
 ### Notes 
-[1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 17.  
-[2]: Ibid.  
-[3]: Ibid.   
-[4]: Ibid.    
-[5]: Ibid, 16.  
-[6]: Ibid.   
-[7]: Ibid.   
-[8]: Ibid, 17.  
+[^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 17.  
+[^2]: Ibid.  
+[^3]: Ibid.   
+[^4]: Ibid.    
+[^5]: Ibid, 16.  
+[^6]: Ibid.   
+[^7]: Ibid.   
+[^8]: Ibid, 17.  

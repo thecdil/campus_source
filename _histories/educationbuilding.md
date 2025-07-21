@@ -11,7 +11,7 @@ The overall form and materials reflect traits typical of International Style des
 ### Physical Description
 The five-story building rests on a reinforced concrete foundation set partially below grade and features above-grade construction of brick, steel, and glass. The brick is laid in a stretcher-bond pattern consistent with broader campus design. Two flat membrane-style roofs cover the fourth and fifth floors, with the fourth level offering a terrace for student use. A prominent curtain wall of steel-mullioned windows and panels dominates the exterior and was redesigned during the renovation. [3]
   
-  ### Notes  
-[1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 53, 54.  
-[2]: Ibid.  
-[3]: Ibid. 
+### Notes  
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 53, 54.  
+[^2]: Ibid.  
+[^3]: Ibid. 

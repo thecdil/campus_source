@@ -19,10 +19,10 @@ The four-story structure, partially built into a hillside, has a wood frame on a
 Ethel K. Steel served on the University of Idaho’s Board of Regents from 1933 to 1946 and was both the namesake and driving force behind the university’s first cooperative women’s residence. Steel House opened in 1953, and offered affordable housing paired with shared responsibilities for upkeep and meals. Steel was honored at the building’s dedication with a silver tea set, and was recognized for her commitment to “better education through cooperative living”, a vision that helped make higher education more accessible to women and shaped student life on campus for decades.[5][6]
 
 
-### Notes  
-[1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 27–28.  
-[2]: Ibid.  
-[3]: Ibid.   
-[4]: Ibid.   
-[5]:Steel House: Women’s Cooperative Housing at UI, Harvester Blog, January 29, 2024, https://harvester.lib.uidaho.edu/posts/2024/01/29/steel.html.  
-[6]: Steel, Ethel K. (1894–1970), Archives West, https://archiveswest.orbiscascade.org/ark:80444/xv148020.
+### Notes 
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 27–28.  
+[^2]: Ibid.  
+[^3]: Ibid.   
+[^4]: Ibid.   
+[^5]:Steel House: Women’s Cooperative Housing at UI, Harvester Blog, January 29, 2024, https://harvester.lib.uidaho.edu/posts/2024/01/29/steel.html.  
+[^6]: Steel, Ethel K. (1894–1970), Archives West, https://archiveswest.orbiscascade.org/ark:80444/xv148020.

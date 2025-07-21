@@ -27,12 +27,12 @@ Willis Sweet (1856–1925) greatly aided the establishment of the University of 
 
 ### Notes  
 
-[1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 27,28.  
-[2]: Ibid.  
-[3]: Ibid. 
-[4]: University of Idaho Library, “Carol Ryrie Brink,” Idaho Writers Index, accessed July 17, 2025, https://www.lib.uidaho.edu/digital/iwi/items/iwi-4.html.  
-[5]: Ibid.  
-[6]: Moody, University of Idaho Historic District, 28.  
-[7]: University of Idaho Library, “Willis Sweet and the Founding of the University,” Harvester: The University of Idaho Library Blog, June 14, 2014, https://harvester.lib.uidaho.edu/posts/2014/06/14/willis-sweet-and-the-founding-of-the-university.html.  
-[8]: Ibid. 
+[^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 27,28.  
+[^2]: Ibid.  
+[^3]: Ibid. 
+[^4]: University of Idaho Library, “Carol Ryrie Brink,” Idaho Writers Index, accessed July 17, 2025, https://www.lib.uidaho.edu/digital/iwi/items/iwi-4.html.  
+[^5]: Ibid.  
+[^6]: Moody, University of Idaho Historic District, 28.  
+[^7]: University of Idaho Library, “Willis Sweet and the Founding of the University,” Harvester: The University of Idaho Library Blog, June 14, 2014, https://harvester.lib.uidaho.edu/posts/2014/06/14/willis-sweet-and-the-founding-of-the-university.html.  
+[^8]: Ibid. 
 
