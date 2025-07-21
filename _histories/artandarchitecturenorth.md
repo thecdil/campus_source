@@ -13,6 +13,6 @@ The building is a 3.5-story, rectangular-form International Style structure with
 The west, south, and east façades of the building are largely unadorned, with ivy growing on the east wall and extending onto the curtain wall. Adjacent to the main structure, directly to the east, is a one-story woodshop connected by a breezeway. This woodshop was completed around the same time as the main building and serves as a functional extension of the department's facilities. [3]
 
 ### Notes  
-[1] Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 14, 15.    
-[2] Ibid.   
-[3] Ibid. 
+[1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 14, 15.    
+[2]: Ibid.   
+[3]: Ibid. 
