@@ -19,7 +19,7 @@ Dr. Richard D. Gibb served as the 18th president of the University of Idaho from
 
 ### Notes  
 
-[^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 59, 60.  
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 59, 60.  
 [^2]: Ibid.  
 [^3]: Ibid.  
-[^4]: “Dr. Richard Gibb, 1983,” uidahodigital, accessed [insert date], https://www.tumblr.com/uidahodigital/64871740792/dr-richard-gibb-1983-officially-the-university.
+[^4]: “Dr. Richard Gibb, 1983,” uidahodigital, accessed July 22, 2025, https://www.tumblr.com/uidahodigital/64871740792/dr-richard-gibb-1983-officially-the-university.
