@@ -17,6 +17,19 @@ The building comprises two floors, a penthouse level, and a full basement. Its s
 
 Entrances on the south are auxiliary, while the east elevation maintains a regular 18-pane window rhythm. A flat roof is bisected by a low-gable section above the penthouse. Minimal ornamentation includes modest horizontal banding of vertically oriented, header-bonded brick and block-letter signage over the main entries. A distinctive 27-pane transom above the west doorway echoes earlier Art Deco detailing. Most of the metal doors and windows appear original.[6]  
 
+### Charles Luther Kirtley
+![placeholder image for Charles Luther Kirtley](https://objects.lib.uidaho.edu/harvester/small/pg3_075a_sm.jpg)  
+
+Charles Luther Kirtley (1872–1938) was an early graduate of the University of Idaho. He entered the university in 1893 and was one of the first four students to earn a degree in 1896, earning distinction not only for his academic achievements but also as a dedicated student-athlete—playing half-back on the inaugural football team and competing in track and field relay events. [7]  
+
+After graduating, he pursued medical studies at Rush Medical School, completed an internship in Portland, and dedicated his career to practicing medicine in rural Idaho, particularly in Challis—a community he served until his death in 1938. [8] His legacy is honored on campus through the Charles L. Kirtley Engineering Laboratory, reflecting his personal and educational contributions to the university.[9]  
+
+### Henry Fallenstein Gauss
+Henry Fallenstein Gauss (1885–1968) was a distinguished professor and administrator at the University of Idaho, significantly contributing to the development of its engineering programs. He served as the head of the Department of Mechanical Engineering for several decades, playing a pivotal role in shaping the department's curriculum and research initiatives. Gauss was instrumental in the establishment of the Kirtley Engineering Laboratory, which later became the Gauss-Johnson Engineering Building and Laboratory, reflecting his lasting impact on the university's infrastructure and academic legacy.[10].
+
+### J. Hugo Johnson. 
+Dr. J. Hugo Johnson was the chair of the Electrical Engineering department at the University of Idaho circa 1960.[11]
+
 ### Notes  
 
 [^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 33, 34.  
@@ -24,5 +37,10 @@ Entrances on the south are auxiliary, while the east elevation maintains a regul
 [^3]: Ibid.  
 [^4]: Ibid.  
 [^5]: Ibid.  
-[^6]: Ibid. 
+[^6]: Ibid.  
+[^7]: Harvester. “Charles Luther Kirtley.” University of Idaho Digital Archives. Accessed July 22, 2025. https://harvester.lib.uidaho.edu/posts/2022/08/15/charles-luther-kirtley.html.  
+[^8]: Archives West. “Charles Luther Kirtley Papers, 1872-1938.” Orbis Cascade Alliance. Accessed July 22, 2025. https://archiveswest.orbiscascade.org/ark:/80444/xv42683.  
+[^9]: Moody, University of Idaho Historic District (2025), 33–34.  
+[^10]: "Henry Fallenstein Gauss (1885–1968)," Find A Grave Memorial, accessed July 22, 2025, https://www.findagrave.com/memorial/216400485/henry_fallenstein-gauss.  
+[^11]: University of Idaho Library. "Gem of the Mountains Photograph, 1918." Accessed July 22, 2025. https://www.lib.uidaho.edu/digital/gemphotos/items/gemphotos0803.html.
 
