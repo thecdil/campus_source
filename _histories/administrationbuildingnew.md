@@ -2,7 +2,7 @@
 
 buildingid: administrationbuildingnew
 title: Administration Building (New)
-------------------------------------
+---  
 
 The Administration Building, originally and still sometimes called the “New Administration Building,” was constructed to replace the university’s original 1892 structure ([Old Admin](/digital/campus/buildings/administrationbuildingold)), which was destroyed by fire in 1906. The loss was a devastating blow to both the university and the Moscow community, but their resilience prevailed. The Lewiston Morning Tribune urged hope, predicting that “upon the ruins will rise a statelier edifice,” a vision that came true. [1]  
 

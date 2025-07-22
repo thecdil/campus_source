@@ -3,6 +3,17 @@ buildingid: foodsciencebuilding
 title: Food Science Building
 ---
 
-The Food Science Building was developed in 1941–1942 to support dairy science classrooms, fermentation and bacteriology research labs, and later WAMI research and teaching facilities. State appropriations primarily funded its $103,750 cost, reflecting the university’s commitment to expanding food science education amid World War II. Over the years, the building has continued to serve scientific research and instructional purposes.
 
-Blending Collegiate Gothic and Modern styles, the building features a flat roof alongside a terracotta Gothic archway entrance. Terra cotta-capped buttresses reinforce its Gothic appearance, while stretcher-bond masonry rests on a smooth, exposed concrete foundation. Windows with trefoil designs further emphasize the Gothic influence. Around 2017, an elevator and new stairs were added to the eastern entrance projection, carefully matching the building’s original brick tone.
+The Food Science Building was constructed in 1941–1942 to support dairy science classrooms, fermentation and bacteriology research labs, and later WAMI research and teaching facilities. Its $103,750 cost was primarily funded by state appropriations, reflecting the university’s commitment to expanding food science education amid World War II. The building has continued to serve scientific research and instructional purposes over the decades.[1]
+
+### Design
+Blending Collegiate Gothic and Modern styles, the building incorporates elements from both traditions. Terra cotta-capped buttresses and a Gothic archway entrance reflect the Gothic vocabulary, while the overall massing and flat roof point to Modernist tendencies. Windows with trefoil detailing reinforce its stylistic ties to earlier campus buildings.[2]  
+
+### Physical Description
+
+The structure is built with stretcher-bond masonry resting on a smooth, exposed concrete foundation. A flat roof tops the rectangular massing, and a terracotta Gothic arch frames the main entrance. Around 2017, an elevator and new stairs were added to the eastern entrance projection, with brickwork carefully matched to the original tone to preserve visual continuity.[3]  
+
+### Notes  
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 32, 33.  
+[^2]: Ibid.  
+[^3]: Ibid. 

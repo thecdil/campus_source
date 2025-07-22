@@ -1,3 +1,8 @@
+---
+buildingid: administrationbuildingold
+title: Administration Building (old)
+---
+
 Constructed in 1892, the original Administration Building—commonly known as the Old Admin—was the centerpiece of the University of Idaho during its early years. Built by G.W. Babcock of Walla Walla, Washington, the building was designed in the Gothic Revival style and quickly became known as “the most attractive building in Idaho,” according to the 1893–94 University Catalog.[1] It housed classrooms, the university library, and administrative offices, and by 1896, it hosted the university’s first commencement ceremony for four graduates.  
 
 
