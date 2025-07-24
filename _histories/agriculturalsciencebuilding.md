@@ -4,15 +4,15 @@ title: Agricultural Science Building
 ---
 
 
-The E.J. Iddings Agricultural Science Building, originally known as the Agricultural Sciences Building, opened in 1951 in response to rising enrollment and an urgent need for office and lab space. Enrollment in the university’s four-year agricultural science program had more than tripled between 1916 and 1946, reflecting agriculture’s dominant role in Idaho’s economy during the mid-20th century. In 1945 alone, the state’s net agricultural income reached $193.8 million—far surpassing revenue from mining or forestry. [1]
+The E.J. Iddings Agricultural Science Building, originally known as the Agricultural Sciences Building, opened in 1951 in response to rising enrollment and an urgent need for office and lab space. Enrollment in the university’s four-year agricultural science program had more than tripled between 1916 and 1946, reflecting agriculture’s dominant role in Idaho’s economy during the mid-20th century. In 1945 alone, the state’s net agricultural income reached $193.8 million—far surpassing revenue from mining or forestry. [^1]
 
 ### Design
-Designed by Boise architect Victor Jones, the building supported the expansion of the College of Agriculture with updated classrooms, labs, and faculty space. By the 1970s, demand again outpaced capacity, prompting the addition of a large north and west wing in 1974, designed by Bellamy, Bratvold, and Carpenter. The structure was rededicated at that time in honor of longtime dean E.J. Iddings. [2]
+Designed by Boise architect Victor Jones, the building supported the expansion of the College of Agriculture with updated classrooms, labs, and faculty space. By the 1970s, demand again outpaced capacity, prompting the addition of a large north and west wing in 1974, designed by Bellamy, Bratvold, and Carpenter. The structure was rededicated at that time in honor of longtime dean E.J. Iddings. [^2]
 
 ### Physical Description
-The original building is a four-story, reinforced concrete structure with a flat roof and stretcher bond brick veneer. Long horizontal ribbon windows and minimal ornamentation reflect International Style influences. A large auditorium projects from the south end. The 1970s addition nearly doubled the usable space and echoes the original materials while introducing recessed entries and tall brick-clad columns with vertical window groupings.[3]
+The original building is a four-story, reinforced concrete structure with a flat roof and stretcher bond brick veneer. Long horizontal ribbon windows and minimal ornamentation reflect International Style influences. A large auditorium projects from the south end. The 1970s addition nearly doubled the usable space and echoes the original materials while introducing recessed entries and tall brick-clad columns with vertical window groupings.[^3]
 
- The east elevation features stacked window bands and a prominent bas-relief of an early 20th-century agricultural scene. Entrances are primarily aluminum-framed glass doors set beneath modest awnings or galleries. An enclosed skywalk at the building’s north end connects it to the nearby Agricultural Biotechnology building, reinforcing the structure’s continuing role in the evolving agricultural sciences complex.[4]
+ The east elevation features stacked window bands and a prominent bas-relief of an early 20th-century agricultural scene. Entrances are primarily aluminum-framed glass doors set beneath modest awnings or galleries. An enclosed skywalk at the building’s north end connects it to the nearby Agricultural Biotechnology building, reinforcing the structure’s continuing role in the evolving agricultural sciences complex.[^4]
   
 ### E. J. Iddings
 ![E.J. Iddings Among vegetation.](https://objects.lib.uidaho.edu/iddings/spec_ji383.jpg)
