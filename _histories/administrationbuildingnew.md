@@ -40,4 +40,4 @@ North of the flowerbed sits the  ["I" Bench](/digital/campus/items/campus00022),
 [^5]: Ibid, 16.  
 [^6]: Ibid.   
 [^7]: Ibid.   
-[^8]: Ibid, 17.  
+[^8]: Ibid, 17.   
