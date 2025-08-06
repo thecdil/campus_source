@@ -3,7 +3,7 @@ buildingid: forneyhall
 title: Forney Hall
 ---
 
-Forney Hall was constructed in 1923–1924 as a women’s dormitory, originally housing 120 students. It served in that role for nearly 40 years before being remodeled in 1971 to accommodate university office spaces, reflecting a shift in student housing to larger complexes on the northwest side of campus. Today, Forney Hall contains a testing center, administrative offices, academic institutes, and a guest residence facility. The building is named for Mary E. Forney, a respected figure in the Moscow community and wife of Judge James H. Forney, a university regent and its first acting president.[^1]
+Forney Hall was constructed in 1923–1924 as a women’s dormitory, originally housing 120 students. It served in that role for nearly 40 years before being remodeled in 1971 to accommodate university office spaces, reflecting a shift in student housing to larger complexes on the northwest side of campus. It was followed closely by Hays Hall, forming a shared courtyard and cohesive architectural  Today, Forney Hall contains a testing center, administrative offices, academic institutes, and a guest residence facility. The building is named for Mary E. Forney, a respected figure in the Moscow community and wife of Judge James H. Forney, a university regent and its first acting president.[^1]
 
 ### Design
 Forney Hall exhibits the Collegiate Gothic style with a three-story form and mission brick exterior. Its architectural character includes an I-shaped gabled roof covered with wooden shingles and prominent front-facing gables. A striking brick entrance tower crowned with a light well accentuates the façade.[^2]
