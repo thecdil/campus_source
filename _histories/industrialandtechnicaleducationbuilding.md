@@ -2,7 +2,6 @@
 buildingid: industrialandtechnicaleducationbuilding
 title: Industrial and Technical Education Building
 ---
-History
 
 The Industrial and Technical Education building was constructed in 1968. The building housed machine shops, classrooms, and teaching spaces. Over the years, the building has facilitated laboratories, offices, and general classrooms. Today, it is called the CLASS Annex, and currently houses the administrative offices for the Auditorium Chamber Music Series and the Lionel Hampton Jazz Festival.
 

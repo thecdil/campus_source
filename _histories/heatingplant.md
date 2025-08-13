@@ -3,12 +3,6 @@ buildingid: heatingplant
 title: Heating Plant (Energy Plant)
 ---
 
-Here’s your text reorganized into **History**, **Design**, and **Physical Description** sections, while keeping the original wording and phrases intact:
-
----
-
-### History
-
 Completed in 1927 to replace the university’s original heating plant, the Energy Plant marked a pivotal shift in campus infrastructure and became a model for centralized heating systems across the Pacific Northwest. Designed by Spokane engineer R.L. Nelson, the facility initially relied on coal-fired steam generation to heat 45 campus buildings. Over time, it adapted to evolving energy technologies—switching to pulverized coal in 1940, to natural gas in 1963, and finally to biomass in the mid-1980s in response to federal environmental regulations. A biomass silo added during this final retrofit remains in use today.
 
 The Energy Plant played a critical role in enabling year-round instruction and supporting major campus growth following both World Wars. By 2016, the nearly century-old facility was heating 68 campus buildings while also providing cooling, compressed air for labs, and combined heat and power generation. Its evolution mirrors broader trends in industrial design and energy infrastructure in the region.[^1]

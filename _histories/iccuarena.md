@@ -3,10 +3,6 @@ buildingid: iccuarena
 title: ICCU Arena
 ---
 
-
-
-### History
-
 The Idaho Central Credit Union (ICCU) Arena opened in 2021 and replaced the Kibbie Dome as the home for men’s and women’s basketball. The \$51-million project reflects a collaborative effort between Opsis Architecture, Hastings & Chivetta, StructureCraft, and Hoffman Construction. Private donors and the state’s forest products industry contributed over \$35 million, with Idaho Central Credit Union providing \$10 million to secure naming rights. The construction used wood from the University of Idaho Experimental Forest and other Idaho timber companies, showcasing local resources and craftsmanship. The arena serves as a “living laboratory” for students in architecture and natural resources and has earned awards for its design, sustainability, and innovative use of wood.[^1]
 
 
