@@ -2,6 +2,7 @@
 buildingid: executiveresidencenew
 title: Executive Residence (new)
 ---
+
 The Executive Residence serves as the official home of the sitting president of the University of Idaho. Since the tenure of Ernest W. Hartung (1965–1977), university presidents have resided on campus. The current residence replaced a raised ranch-style house from 1966, though portions of the original home—including its garage, fireplace, and foundation—were thoughtfully incorporated into the new structure. Salvaged materials such as glulam beams and black locust wood from the nearby site were repurposed in the interior. Larch flooring milled by the University of Illinois’ student logging crew and a central open floor plan visually connect the home to both the Shattuck Arboretum and the Arboretum and Botanical Garden. The collaborative design-build process yielded both budget efficiency and design synergy. In addition to being a private residence, the Executive Residence functions as a social venue, designed to accommodate formal dinners and larger receptions of 40–50 guests.[^1]
 
 ### Design

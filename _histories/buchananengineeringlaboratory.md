@@ -1,3 +1,7 @@
+buildingid: buchananengineeringlaboratory
+title: Buchanan Engineering Laboratory
+---
+
 The J.E. Buchanan Engineering Building (BEL) was developed in response to a directive from the Idaho State Legislature to alleviate overcrowding at the College of Engineering, which by 1966 had grown to 860 students. With 80,000 square feet of space housing departmental offices and laboratories for chemical, civil, electrical, and agricultural engineering, the building effectively doubled the college’s campus footprint overnight. It supported instruction in eight engineering specializations and was designed to meet the evolving demands of the Cold War-era engineering profession. The facility was named in honor of Jesse E. Buchanan, a distinguished alumnus who served as Dean of Engineering (1938–1946) and President of the University (1946–1954). Upon opening, the BEL played a key role in expanding regional capacity for engineering education, with nearly 80 percent of graduates entering the workforce in the American West.[^1]  
 
 ### Design
