@@ -3,7 +3,6 @@ buildingid: morrillhall
 title: Morrill Hall
 ---
 
-### History
 
 Morrill Hall was constructed in 1906 and stands as one of the University of Idaho’s oldest surviving buildings. Architect Henry Nelson Black designed the building in the Classical Revival style. Funding came partly from insurance money after the original Administration Building was destroyed by fire. The building, costing $55,907, served as a temporary facility until a new administration building was constructed. The fourth floor was added in 1930. Morrill Hall originally housed the College of Agriculture and later accommodated the School of Mines, the Forestry Department, and currently the College of Graduate Studies. The building was named in honor of Representative Justin Smith Morrill of Vermont, a key advocate for the 1862 Morrill Act, which provided federal lands to fund public universities focused on agriculture and mechanical arts.[^1]  
 

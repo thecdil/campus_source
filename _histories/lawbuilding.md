@@ -3,8 +3,6 @@ buildingid: lawbuilding
 title: Law Building
 ---
 
-### History
-
 The University of Idaho College of Law was established in 1909. It became a member of the Association of American Law Schools in 1914 and achieved American Bar Association accreditation in 1925. For much of its early history, the college operated without a centralized facility, utilizing classrooms and administrative spaces dispersed across campus. By the early 1970s, university planners moved forward with a purpose-built law facility to consolidate classrooms, offices, and the college’s library. The Boise architectural firm Dropping, Kelley, Hosford & LaMarche designed the new building, which was occupied in fall 1973 and formally dedicated in April 1974. The building was named in 1984 for Albert Menard, who served as dean from 1967 to 1978. The Menard Law Building provided a permanent home for the College of Law and supported the university’s commitment to legal education.  
 
 ### Design

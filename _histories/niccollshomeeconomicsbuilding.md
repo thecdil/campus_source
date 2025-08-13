@@ -3,7 +3,6 @@ buildingid: niccollshomeeconomicsbuilding
 title: Niccolls Home Economics Building
 ---
 
-### History
 
 The Niccolls Home Economics Building served as a central hub for home economics education at the University of Idaho. The building supported a growing student body and advanced the land-grant mission to provide practical, accessible instruction in domestic and consumer sciences. The university has been coeducational since its founding, with home economics offering an important academic and career pathway for women. The Department of Domestic Sciences, later renamed Home Economics, was established in 1902 and operated without a permanent home for five decades. In 1951, a new building was completed on the site of the condemned Engineering Building, providing modern classrooms and laboratories for courses in clothing and textiles, interior design, housing, child development, and family studies. The building was widely known as the Niccolls Building but was not officially named until 1962, when alumna Mary Hall Niccolls bequeathed a $450,000 scholarship fund in gratitude for the small scholarship that enabled her own education in 1906.[^1]  
 

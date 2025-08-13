@@ -3,8 +3,6 @@ buildingid: kibbiedome
 title: Kibbie Dome
 ---
 
-### History
-
 The University of Idaho began developing the Kibbie-ASUI Athletic Center in 1971 on the site of the fire-damaged Neale Stadium. Plans for a new facility were already underway when Neale was condemned earlier that summer. The outdoor stadium reached completion in 1971, and the iconic barrel-arched roof was added in 1975, officially creating the Kibbie Dome—at the time, the first indoor football stadium for the university. The project was largely funded by alumnus William H. Kibbie. During the summer of 1975, construction crews erected the 32 timber trusses in just 24 working days, consuming over 1,000,000 board feet of lumber. In 1976, the American Society of Civil Engineers recognized the facility for its innovative use of wood, naming it one of the nation's outstanding engineering achievements. Over five decades, the Kibbie Dome has hosted a wide range of events, including football, track, gymnastics, concerts, rodeos, and commencement ceremonies. It remains the largest indoor space in Moscow and was renamed the P1FCU Kibbie Dome in June 2023. [^1] 
 
 ### Design

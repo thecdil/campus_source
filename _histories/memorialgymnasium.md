@@ -3,8 +3,6 @@ buildingid: memorialgymnasium
 title: Memorial Gymnasium
 ---
 
-### History
-
 Commonly known as “Mem Gym,” the Memorial Gymnasium was built in 1929 to honor all Idahoans who lost their lives in World War I. University of Idaho architect and faculty member David C. Lange designed the building, with contributions from other UI faculty. The gymnasium served not only as a memorial but also as a key venue for university life, functioning as a 2,500-seat gymnasium and physical education facility. Landmark events took place in Mem Gym, including a 1938 lecture by First Lady Eleanor Roosevelt. For decades, it remained the university’s largest indoor gathering space, hosting commencements, concerts, and major campus functions until the Kibbie Dome opened in the 1970s. The gym’s cultural significance led to its listing on the National Register of Historic Places in 1977, an unusually early designation for a building just 49 years old. [^1] 
 
 ### Design

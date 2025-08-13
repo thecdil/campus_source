@@ -3,13 +3,7 @@ buildingid: itanknew
 title: I Tank (New)
 ---
 
-Here is the text reorganized and slightly expanded into **History**, **Design**, and **Physical Description** sections, keeping the original voice and phrasing:
-
----
-
-### History
-
-Recognized across campus and the wider region as a cultural landmark, the I Tank has been a long-standing symbol of university spirit since its installation in 1952. From its earliest years, the tank became a focal point for student traditions, serving as a rallying spot for fraternity pledging and spirited “raids” leading up to football games. Its presence, coupled with the bold black and gold “I” painted on its side, has helped anchor campus identity and foster a sense of shared community through generations of students and alumni.[^1]
+The University "I Tank" has been a long-standing symbol of university spirit since its installation in 1952. Since it was constructed to replace its predecessor, it has become recognized across campus and the Palouse region as a cultural landmark. From its earliest years, the tank became a focal point for student traditions, a central rallying spot for fraternity pledging and spirited “raids” leading up to football games. Its presence, coupled with the bold black and gold “I” painted on its side, has helped anchor campus identity and foster a sense of shared community through generations of students and alumni.[^1]
 
 
 

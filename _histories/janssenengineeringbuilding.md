@@ -3,9 +3,6 @@ buildingid: janssenengineeringbuilding
 title: Janssen Engineering Building
 ---
 
-
-### History
-
 The Janssen Engineering Building (JEB) opened in 1950 as a replacement for the university’s original 1902 Engineering Building, which faculty had repeatedly condemned as “UNSAFE!” and “INADEQUATE!” Rising enrollment and growing demand in engineering fields created the need for a larger and more modern facility. The new building, originally designated as Engineering Classroom Unit 1, provided administrative offices, classrooms, teaching and research labs, and an auditorium. It was later renamed to honor Allen S. Janssen, a former engineering student and longtime Dean of the College of Engineering, who served from 1946 to 1967. Its completion marked a major shift in the university’s architectural direction, reflecting a move away from traditional prewar styles and toward International-Style Modernism.[^1]
 
 

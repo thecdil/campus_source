@@ -3,8 +3,6 @@ buildingid: mcclurehall
 title: McClure Hall
 ---
 
-### History  
-
 As the University of Idaho entered the 1990s, the College of Mines was scattered across seven locations on campus. The last building constructed specifically for the college—the “New” Mines Building—dated to 1961. The university prioritized the construction of a new facility in response to growing needs, breaking ground in 1993.[^1]   
 
 The 70,000-square-foot building was named for U.S. Senator and university alumnus James A. McClure, recognized for his contributions to natural resource development. Completed in early 1995, the $11.8 million project was funded through federal, state, and private sources. McClure Hall initially housed the Departments of Metallurgical and Mining Engineering and Geography, as well as the Strategic Resources Lab, teaching labs, faculty and graduate offices, conference spaces, and a 75-seat lecture hall. After the College of Mines and Earth Resources closed in 2002, the building was repurposed for the College of Engineering and College of Science.[^2]

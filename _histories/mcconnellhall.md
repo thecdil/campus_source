@@ -3,9 +3,6 @@ buildingid: mcconnellhall
 title: McConnell Hall
 ---
 
-
-### History
-
 McConnell Hall was constructed in 1957 as a 110-man dormitory and named for prominent Moscow resident and Idaho’s third governor, William J. McConnell. It reflected a transitional moment in university life and design, marking both a shift in student demographics and the campus’s embrace of Modern architecture. Between 1951 and 1961, the university experienced a surge in male enrollment, leading to a severe housing shortage. In response, the university built twin dormitories: McConnell Hall and neighboring Shoup Hall (1958). Both buildings were designed by noted architect Anton Dropping, whose work also includes the Idaho State Supreme Court. These were among the university’s first residential buildings designed in the Modern style.[^1]
 
 McConnell Hall served as a student dormitory throughout its early decades, though its designation as a men’s or women’s hall shifted in response to enrollment trends. In 1961, a surge in female students prompted its conversion to a women’s dorm. By the late 1970s, declining occupancy led to rooms being reassigned as guest accommodations. According to the Argonaut, residents reported feeling like they lived in a “motel” due to the influx of high school band members, football players, and sorority pledges. Although its future appeared uncertain at the time, McConnell Hall ultimately continued in use, becoming the women’s “quiet dorm” in 1988 and later transitioning to a co-ed residence. The building played a sustained role in student life and reflects the university’s evolution into Modern architectural expression.[^2]  

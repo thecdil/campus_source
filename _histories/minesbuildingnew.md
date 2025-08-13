@@ -3,8 +3,6 @@ buildingid: minesbuildingnew
 title: Mines Building (New)
 ---
 
-### History
-
 The Mines Building is the third structure on the University of Idaho campus to bear that name. The original 1902 building was repeatedly condemned and ultimately razed in 1951. The university remodeled the 1907 Metallurgical Building that same year, designating it the “New Mines Building.” Growing enrollment and expansion of the College of Mines curriculum and faculty soon rendered that facility inadequate. Planning for a new building began in 1956 under Dean of Mines J.D. Forrester. Spokane-based architects Hicks, James, Culler, Gale, and Martell finalized the design. Commercial Builder’s Inc. of Moscow completed the building in 1961 at an approximate cost of $525,000. The project was jointly funded by a $250,000 appropriation from the Idaho State Legislature, mining companies, and individual donors. The Mines Building reflects a key era of campus growth in the early 1960s, as the university prepared for surging enrollment and embraced Modernist architectural principles.[^1]  
 
 ### Design

@@ -3,9 +3,6 @@ buildingid: lionelhamptonmusicbuilding
 title: Lionel Hampton Music Building
 ---
 
-
-### History
-
 The building was originally named the Music Building and was renamed in 1987 in honor of jazz legend Lionel Hampton. It became the first school of music in the United States named after a jazz musician and remains the only one named after an African American jazz musician. The facility historically served as an educational and performance space for student musicians and continues as a central venue for the university’s musical instruction and cultural life. Since 1967, it has hosted workshops and concerts during the Lionel Hampton Jazz Festival, which grew to become the largest education-based jazz festival in the country. Hampton supported the university’s dedication to music education and pledged his help to advance jazz instruction and performance.  
 
 ### Design

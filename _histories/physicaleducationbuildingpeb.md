@@ -3,7 +3,7 @@ buildingid: physicaleducationbuildingpeb
 title: Physical Education Building (PEB)
 ---
 
-### History
+
 The Physical Education Building (PEB), originally known as the Women’s Health Education Center, was completed in 1970 alongside the adjoining Swim Center. Coeur d’Alene architect Fulton Gale of Culler, Gale, and Martell designed the building. It was commissioned after the Women’s Gymnasium was repurposed for the Art and Architecture Department. The new facility aimed to support women’s health education. Over time, the PEB has housed physical education classrooms, staff offices for the College of Education, Health and Human Sciences, locker and equipment rooms, a gymnasium, and a dance studio. As of 2024, the building continues to serve these functions, while the Swim Center remains in use as originally intended. The PEB contributed to the university’s educational mission during a time of campus expansion.[^1]
 
 ### Design

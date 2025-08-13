@@ -3,8 +3,6 @@ buildingid: library
 title: Library
 ---
 
-### History
-
 The University of Idaho Library began in the Administration Building, which was destroyed by fire in 1906. A new collection space in the rebuilt structure served students for several decades. Growing enrollment and expanding research needs by the mid-20th century created demand for a purpose-built library. Planning for the new facility started in 1950. The library, designed by Ernest Price of Whitehouse, Price, Deneff, and Deeble, opened in 1957 to serve the campus and community. A major expansion occurred in 1991 with the addition of nearly 70,000 square feet to the north. This $12.3 million project introduced a five-story tower, relocated the main entrance, and incorporated design elements referencing the campus’s Gothic traditions. Despite changes to the original setting and style, the building continues as the university’s primary academic library.[^1] 
 
 ### Design
