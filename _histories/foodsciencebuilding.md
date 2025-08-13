@@ -3,7 +3,6 @@ buildingid: foodsciencebuilding
 title: Food Science Building
 ---
 
-
 The Food Science Building was constructed in 1941–1942 to support dairy science classrooms, fermentation and bacteriology research labs, and later WAMI research and teaching facilities. Its $103,750 cost was primarily funded by state appropriations, reflecting the university’s commitment to expanding food science education amid World War II. The building has continued to serve scientific research and instructional purposes over the decades.[^1]
 
 ### Design

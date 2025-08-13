@@ -3,7 +3,6 @@ buildingid: campuslandscapes
 title: Campus Landscapes
 ---
 
-
 ### Academic Mall 
 The Academic Mall has long served as a central pedestrian artery at the University of Idaho, linking key academic buildings, residence halls, the library, and the ISUB. Its development paralleled the university’s own growth, gradually taking shape as enrollment rose and departments expanded. The opening of Chrisman Hall in 1939, followed by the Agricultural Science Building in 1951, marked early moments in the mall’s emergence as a defined space. Later additions such as the Agricultural Biotechnology Building in 2000 and the IRIC Building in 2016 extended its reach. The university’s Long-Range Campus Development Plan emphasizes the mall as both a practical and symbolic element of the campus—supporting research, learning, and daily life while reinforcing a broader commitment to community and the natural environment.[^1]
 

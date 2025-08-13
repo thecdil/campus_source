@@ -3,7 +3,6 @@ buildingid: artandarchitecturenorth
 title: Art and Architecture North
 ---
 
-
 The Art & Architecture North Building was established to meet the needs of a growing student body in the Art & Architecture Department during the late 1950s and early 1960s. Although the department was founded in 1926, it lacked a permanent home for over four decades, occupying various spaces across campus despite the university’s significant role in advancing the architectural profession in Idaho. The dedication of this facility on November 19, 1966, finally offered a consolidated location for classrooms, studios, labs, and faculty offices, as well as the department's administrative headquarters under the College of Letters, Arts, and Social Sciences. [^1]
 
 ### Design

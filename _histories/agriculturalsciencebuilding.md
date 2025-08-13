@@ -3,7 +3,6 @@ buildingid: agriculturalsciencebuilding
 title: Agricultural Science Building
 ---
 
-
 The E.J. Iddings Agricultural Science Building, originally known as the Agricultural Sciences Building, opened in 1951 in response to rising enrollment and an urgent need for office and lab space. Enrollment in the university’s four-year agricultural science program had more than tripled between 1916 and 1946, reflecting agriculture’s dominant role in Idaho’s economy during the mid-20th century. In 1945 alone, the state’s net agricultural income reached $193.8 million—far surpassing revenue from mining or forestry. [^1]
 
 ### Design

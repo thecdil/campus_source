@@ -2,6 +2,7 @@
 buildingid: golfcourseandclubhouse
 title: Golf Course and Clubhouse
 ---
+
 ### Vandal Golf Course 
 
 The University of Idaho golf course, located west and southwest of the main campus, traces its roots to student interest in the late 1920s. A makeshift course was first constructed in 1930 by university workmen to meet growing demand, despite the belief that golf was largely a sport of the wealthy. In 1936, the university invested $130,000—financed by student fees over fifteen years—to purchase land and construct a formal nine-hole course. The project was one of the few Depression-era construction efforts in Moscow and reflected a commitment to student recreation. The course was designed and overseen by golf architect Francis L. (Frank) James, who had previously worked on courses in Moscow and at Washington State College. He later served as both course manager and resident golf professional until his death in 1952. A memorial plaque in the clubhouse honors his legacy. The course gained prominence in 1959 when the Vandal golf team won the Northern Pacific Coast Conference Championship.[^1]   
