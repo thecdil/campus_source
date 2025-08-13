@@ -3,9 +3,6 @@ buildingid: archiephinneyhall
 title: Archie Phinney Hall
 ---
 
-
-Archie Phinney Hall - 1938
-
 Archie Phinney Hall, originally named Chrisman Hall after Brigadier General Edward R. Chrisman, was constructed in 1938 as an addition to [Willis Sweet Hall](/digital/campus/buildings/carolryriebrinkhall) to provide supplemental dormitory space. 
 Designed by Hugh Richardson of Lewiston and based on plans by Whitehouse & Price of Spokane, it was built by the Howard S. Wright Company of Seattle for $388,130, funded through regents’ and local bonds. 
 Connected to Willis Sweet Hall via a shared kitchen, it provided housing for 111 male students.  

@@ -3,7 +3,6 @@ buildingid: artandarchitecturebuilding
 title: Art and Architecture Building
 ---
 
-
 Known as the Art & Architecture Building since around 2001, this structure has had a long and varied history on campus. It was originally built as part of a wave of expansion after the 1906 fire that destroyed the Old Administration Building. Designed to support the School of Mines, it was equipped with machinery like “crushers . . . rolls, jigs, concentrators and magnetic separators” for ore processing.[^1] But not long after it was completed, newer flotation methods replaced the older gravity-based techniques the building was designed for—quickly making its large interior outdated.
   
 With student enrollment booming after World War II, the university looked for better ways to put the underutilized space to work. In 1950, President Buchanan approved a “complete overhaul job,” joking that the building was “about to lose its long-held distinction as a space waster.”[^2] After this renovation, it was renamed the Mines Building and became home to both the School of Mines and the Idaho Bureau of Mines and Geology.
