@@ -3,7 +3,6 @@ buildingid: renfrewbuilding
 title: Renfrew Building
 ---
 
-
 Renfrew Hall opened in 1964 under the name Physical Sciences Building. It served as a state-of-the-art facility for science education and research during the Cold War. The building responded to national enthusiasm for technological advancement in the Space Age and included modern classrooms and laboratories for training future chemists and physicists. Malcolm Renfrew, who was head of the Department of Physical Sciences at the time, described it as a place where students could “enhance their contemplations of the universe” and address the technical challenges of the era. The university renamed the building in his honor in 1985 to recognize his lasting impact on scientific programs.[^1]
 
 ### Design
