@@ -13,8 +13,16 @@ Following the postwar crunch, mid-century creativity abounded with Brutalist, Po
 
 Taken together, these changing waves of design and style map out the evolution of the University of Idaho’s built environment—tracing the various ways that architectural shifts reflect changing educational priorities, student growth, and societal trends. While many of these different categories have some overlap in time, the general progression from early 20th-century Revival through late 20th- to 21st-century Postmodern and Contemporary styles is clear, providing a comprehensive architectural history of campus life.  
 
-- **1. Early 20th-Century Revival Styles (1902–1951)**
-  - **Styles:** Renaissance Revival, Romanesque Revival, Classical Revival, Mining Vernacular, Collegiate Gothic, Dutch Colonial Revival, Colonial Revival, Gothic Revival
+- **1. Early 20th-Century Revival Styles (1902–1951)**  
+
+
+![demo_001](https://objects.lib.uidaho.edu/campus/small/campus02552_sm.jpg) 
+
+ Memorial Gymnasium, 1929.
+  - **Styles:** Renaissance Revival, Romanesque Revival, Classical Revival, Mining Vernacular, Collegiate Gothic, Dutch Colonial Revival, Colonial Revival, Gothic Revival.  
+
+
+
   - **Characteristics:**
     - Red brick façades, formal symmetry, historical references, decorative detailing
     - Symmetrical façades, arched windows and doors, classical detailing, masonry construction (Renaissance Revival)
@@ -43,7 +51,12 @@ Taken together, these changing waves of design and style map out the evolution o
     - Virtual Technology & Design Building (1942) – Colonial Revival
     - Memorial Steps (1933) – Gothic Revival (relocated from Old Administration Building)[^1]
 
-- **2. Early to Mid-20th-Century Modern and Minimal Construction (1935–1965)**
+- **2. Early to Mid-20th-Century Modern and Minimal Construction (1935–1965)**  
+
+
+![demo_001](https://objects.lib.uidaho.edu/campus/small/campus02904_sm.jpg)  
+Food Science Building, 1942. 
+
   - **Styles:** Minimal Traditional, Industrial Vernacular, Early International Style
   - **Characteristics:**
     - Simplified forms, functional layouts, economical materials
@@ -62,7 +75,12 @@ Taken together, these changing waves of design and style map out the evolution o
     - PREECE Greenhouses (1956) – Industrial Vernacular
     - Food Science Building (1942) – Collegiate Gothic + Modern transition[^2]
 
-- **3. Mid-Century International and Brutalist Modernism (1950s–1970s)**
+- **3. Mid-Century International and Brutalist Modernism (1950s–1970s)**  
+
+
+![demo_001](https://objects.lib.uidaho.edu/campus/small/campus00494_sm.jpg)  
+Art and Architecture North, 1966.  
+
   - **Styles:** International Style, Brutalist / Modern
   - **Characteristics:**
     - Flat roofs, smooth façades, glass and steel curtain walls, open floor plans, geometric forms (International Style)
@@ -87,7 +105,11 @@ Taken together, these changing waves of design and style map out the evolution o
     - Menard Law Building (1973) – Brutalist
     - Kibbie Dome / ASUI Activity Center (1975) – Modern / Quonset Hut [^3]
 
-- **4. Late 20th-Century Postmodern, Contemporary, and 21st-Century Modern (1988–2021)**
+- **4. Late 20th-Century Postmodern, Contemporary, and 21st-Century Modern (1988–2021)**  
+
+![demo_001](https://objects.lib.uidaho.edu/campus/small/campus03109_sm.jpg)  
+Agricultural Biotechnology Building, 2001.  
+
   - **Styles:** Postmodern, Contemporary, 21st-Century Modern
   - **Characteristics:**
     - Eclectic references to historic styles, playful forms, ornamentation, contextual harmonization (Postmodern)
