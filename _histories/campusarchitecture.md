@@ -41,7 +41,7 @@ Taken together, these changing waves of design and style map out the evolution o
     - Niccolls Home Economics Building (1951) – Collegiate Gothic
     - Beef Barns (ca. 1918) – Dutch Colonial Revival
     - Virtual Technology & Design Building (1942) – Colonial Revival
-    - Memorial Steps (1933) – Gothic Revival (relocated from Old Administration Building)
+    - Memorial Steps (1933) – Gothic Revival (relocated from Old Administration Building)[^1]
 
 - **2. Early to Mid-20th-Century Modern and Minimal Construction (1935–1965)**
   - **Styles:** Minimal Traditional, Industrial Vernacular, Early International Style
@@ -60,7 +60,7 @@ Taken together, these changing waves of design and style map out the evolution o
     - E. J. Iddings Agricultural Science Building (1951) – Early International Style
     - Engineering Annex (1965) – Minimal Traditional
     - PREECE Greenhouses (1956) – Industrial Vernacular
-    - Food Science Building (1942) – Collegiate Gothic + Modern transition
+    - Food Science Building (1942) – Collegiate Gothic + Modern transition[^2]
 
 - **3. Mid-Century International and Brutalist Modernism (1950s–1970s)**
   - **Styles:** International Style, Brutalist / Modern
@@ -85,7 +85,7 @@ Taken together, these changing waves of design and style map out the evolution o
     - College of Education Building (1969) – altered, non-contributing
     - Physical Education Building / Swim Center (1970) – Brutalist
     - Menard Law Building (1973) – Brutalist
-    - Kibbie Dome / ASUI Activity Center (1975) – Modern / Quonset Hut
+    - Kibbie Dome / ASUI Activity Center (1975) – Modern / Quonset Hut [^3]
 
 - **4. Late 20th-Century Postmodern, Contemporary, and 21st-Century Modern (1988–2021)**
   - **Styles:** Postmodern, Contemporary, 21st-Century Modern
@@ -102,4 +102,10 @@ Taken together, these changing waves of design and style map out the evolution o
     - Living Learning Community Buildings (2003–2004) – Postmodern
     - Integrated Research & Innovation Center (2016) – 21st-Century Modern
     - Executive Residence (2019) – 21st-Century Modern
-    - Idaho Central Credit Union Arena (2021) – Contemporary / Mimetic
+    - Idaho Central Credit Union Arena (2021) – Contemporary / Mimetic  [^4]
+
+    ### Notes 
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 7-9.  
+[^2]: Ibid.  
+[^3]: Ibid.   
+[^4]: Ibid.  
