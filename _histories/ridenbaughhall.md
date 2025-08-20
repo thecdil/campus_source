@@ -15,7 +15,7 @@ Ridenbaugh Hall is a three-story masonry structure with a rectangular plan and s
 
 ### Mary E. Ridenbaugh  
 
- {% include feature/https://64.media.tumblr.com/c7350f939597e562db6f80d93108f0ce/tumblr_nd1mkvVX5o1soxh7uo2_1280.jpg objectid= %}
+ {% include feature/image.html objectid="https://64.media.tumblr.com/c7350f939597e562db6f80d93108f0ce/tumblr_nd1mkvVX5o1soxh7uo2_1280.jpg" %}
 
 {% include feature/image.html objectid="mg660_box3_2_1006;mg660_box5_4-1718" width="50" %} 
 
