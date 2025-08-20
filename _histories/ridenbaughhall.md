@@ -15,9 +15,7 @@ Ridenbaugh Hall is a three-story masonry structure with a rectangular plan and s
 
 ### Mary E. Ridenbaugh  
 
- {% include feature/image.html objectid="https://64.media.tumblr.com/c7350f939597e562db6f80d93108f0ce/tumblr_nd1mkvVX5o1soxh7uo2_1280.jpg" %}
-
-{% include feature/image.html objectid="mg660_box3_2_1006;mg660_box5_4-1718" width="50" %} 
+ {% include feature/image.html objectid="https://objects.lib.uidaho.edu/campus/mary_ridenbaugh.jpg" %}
 
 Mary E. Ridenbaugh (1857–1926) served as vice president of the University of Idaho’s Board of Regents from 1901 to 1907 and played a vital role in advancing women’s education at the university. She championed the creation of a dedicated women’s dormitory—Ridenbaugh Hall—completed in 1902 and the first U of I building named in honor of a female figure. Her advocacy facilitated the development of Idaho’s earliest domestic science programs, including cooking classes held in the building’s inaugural kitchen. Ridenbaugh also contributed significantly to civic life in Boise, helping to establish the Carnegie Library and serving as a founding member of the Columbian Club. Her legacy endures through structures, programs, and institutions that reflect her lifelong commitment to education and public service.[^4]  
 

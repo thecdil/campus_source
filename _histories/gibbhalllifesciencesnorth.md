@@ -13,7 +13,7 @@ Gibb Hall rests on a concrete foundation with a partially exposed basement on th
 
 ### Richard D. Gibb
 
-![placeholder image for Richard D. Gibb](https://64.media.tumblr.com/9eff37440d04bb3419a787d8ea769bf5/tumblr_mv399mzION1soxh7uo1_1280.jpg)
+![placeholder image for Richard D. Gibb](https://objects.lib.uidaho.edu/campus/richard_gibb.jpg)
 
 Dr. Richard D. Gibb served as the 18th president of the University of Idaho from 1977 to 1989. Raised on a farm in Illinois, he earned advanced degrees in agriculture and economics before leading the university through major initiatives, including implementing a nationally recognized core curriculum, securing a $7 million NASA grant, expanding the Lionel Hampton School of Music, and supporting the formation of the College of Art and Architecture. Gibb Hall, named in his honor in 1993, reflects his lasting impact. Known for his approachability and love of gardening, he passed away in 1994 after battling liver cancer.[^4]  
 
