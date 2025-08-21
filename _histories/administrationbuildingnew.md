@@ -14,7 +14,7 @@ Since opening in 1909, the New Administration Building has served as the univers
 
 
 ### Design
-Designed by Boise architect John E. Tourtellotte, the University of Idaho’s Administration Building was praised as the first fireproof building in the Northwest. Constructed in four phases between 1907 and 1937, the U-shaped, three-story structure was built in the Collegiate Gothic style—a popular academic architectural form at the time. Its exterior features red pressed brick with buff-colored Boise sandstone trim, a medium-high gabled roof with dormers, and a symmetrical east-facing primary façade.[^5]  
+Designed by Boise architect John E. Tourtellotte, the University of Idaho’s Administration Building was praised as the first fireproof building in the Northwest. Constructed in four phases between 1907 and 1937, the U-shaped, three-story structure was built in the Collegiate Gothic style, a popular academic architectural form at the time. Its exterior features red pressed brick with buff-colored Boise sandstone trim, a medium-high gabled roof with dormers, and a symmetrical east-facing primary façade.[^5]  
 
 Each addition served a growing university: the central and east-facing middle sections were completed in 1909 for \$140,000 and originally housed most of the university’s academic departments. The north wing—home to the Administration Auditorium and its stained-glass windows—was finished in 1912 at a cost of \$75,000. The south wing followed in 1920 (\$90,000), and a library extension was added in 1937 (\$110,000). An elevator tower was added to the south wing in 2000.
 The building’s defining feature is its central tower, modeled after England’s Hampton Court Palace.[^6]  
