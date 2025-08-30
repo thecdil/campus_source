@@ -18,7 +18,7 @@ Idaho architect J.E. Tourtellotte designed the building in an intricately detail
 
 Art and Architecture South is a sturdy rectangular structure featuring two stories above a basement. Its red brick walls are enhanced by white brick and cast stone detailing, emphasizing arches and window sills. The prominent east façade is marked by a broad stairway leading to a recessed arched entry.
 
-The building features a hipped roof with centered, gabled dormers on each side. Its roofing consists of a medium-pitched hip roof with gabled dormers centered on each side and a distinctive cupola. The foundation is made of local basalt, one of two basalt foundations on campus. (The other can be found at [Morrill Hall](/digital/campus/buildings/morrillhall).) Timber-reinforced masonry and wooden roof trusses comprise the internal structure. In a 1976 renovation, the building was connected to Art and Architecture North via a catwalk. [^4]
+The building features a hipped roof with centered, gabled dormers on each side and a distinctive cupola. The foundation is made of local basalt, one of just a few basalt foundations on campus. (Others include [Morrill Hall](/digital/campus/buildings/morrillhall) and [Ridenbaugh Hall](/digital/campus/buildings/ridenbaughhall).) Timber-reinforced masonry and wooden roof trusses comprise the internal structure. In a 1976 renovation, the building was connected to Art and Architecture North via a catwalk. [^4]
 
 ### Notes  
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 12, 13.  
