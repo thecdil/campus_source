@@ -13,7 +13,7 @@ In 1968, the university renamed the two buildings: Unit No. 1 became the H.F. Ga
 The GJEBL is an early campus example of Modern architecture, reflecting the transition from pre-war traditionalist styles toward a new, utilitarian sensibility. Its rectangular form, minimal ornamentation, and emphasis on function reflect an evolving approach to institutional design.[^4]
 
 ### Physical Description
-The building comprises two floors, a penthouse level, and a full basement. Its structure consists of steel-reinforced concrete with a red-brick veneer laid in stretcher bond, while the penthouse level is sided in metal. A variety of window types and sizes appear across its different faces.[^5]
+The building is made up of two floors, a penthouse level, and a full basement. Its structure consists of steel-reinforced concrete with a red-brick veneer laid in stretcher bond, while the penthouse level is sided in metal. A variety of window types and sizes appear across its different faces.[^5]
 
 
 ### Charles Luther Kirtley
