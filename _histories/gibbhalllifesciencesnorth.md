@@ -6,10 +6,10 @@ title: Gibb Hall (Life Sciences North)
 Gibb Hall was developed as an expansion to the Life Sciences South Building, adding 56,500 square feet to accommodate the growing department. Occupied in 1985, it represented the largest single building expenditure in university history at that time. As of 2024, Gibb Hall houses bacteriology, biochemistry, and biology teaching and research laboratories. The building was named in 1993 for Dr. Richard D. Gibb, university president from 1977 to 1989.[^1]
 
 ### Design
-The building reflects a Postmodern design incorporating Gothic references. Its roof gables and trim include triangular accents that visually link it to nearby historic buildings, such as the 1925 [Life Sciences South Building](/digital/campus/buildings/lifesciencessouth). Stylistic distinctions include corbelled arches, suble window finishes, and simplified exterior wall supporta, which evoke earlier campus architecture with cleaner, minimal lines.[^2]
+The building reflects a Postmodern design incorporating Gothic references. Its roof gables and trim share common visual elements with nearby builidngs, such as the 1925 [Life Sciences South Building](/digital/campus/buildings/lifesciencessouth), reinforcing campus architectural identity. Stylistic distinctions include corbelled arches, suble window finishes, and simplified exterior wall supports, which evoke earlier campus architecture with cleaner, minimal lines.[^2]
 
 ### Physical Description
-Gibb Hall rests on a concrete foundation with a partially exposed basement on the east side and is clad in brick, concrete, and cast concrete. The north and south elevations feature recessed square windows framed by thick concrete sills and headers. Its proportions correspond to those of the adjacent Life Sciences South Building, maintaining contextual harmony.[^3]  
+Gibb Hall is built upon a partially exposed concrete foundation. The exterior of the building is clad in brick, concrete, and cast concrete. The north and south faces feature recessed square windows framed by thick concrete sills and headers. Its proportions are similar to those of the adjacent [Life Sciences South Building](/digital/campus/buildings/lifesciencessouth), maintaining contextual harmony.[^3]  
 
 ### Richard D. Gibb
 
