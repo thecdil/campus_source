@@ -3,7 +3,7 @@ buildingid: gibbhalllifesciencesnorth
 title: Gibb Hall (Life Sciences North)
 ---
 
-Gibb Hall was developed as an expansion to the Life Sciences South Building, adding 56,500 square feet to accommodate the growing department. Occupied in 1985, it represented the largest single building expenditure in university history at that time. As of 2024, Gibb Hall houses bacteriology, biochemistry, and biology teaching and research laboratories. The building was named in 1993 for Dr. Richard D. Gibb, university president from 1977 to 1989.[^1]
+Gibb Hall was developed as an expansion to the Life Sciences South Building, adding 56,500 square feet to accommodate the growing department. The hall was occupied in 1985, and at that point in time, it was the most expensive individual building project undertaken at the University. As of 2024, Gibb Hall houses bacteriology, biochemistry, and biology teaching and research laboratories. The building was named in 1993 for Dr. Richard D. Gibb, university president from 1977 to 1989.[^1]
 
 ### Design
 The building reflects a Postmodern design incorporating Gothic references. Its roof gables and trim share common visual elements with nearby builidngs, such as the 1925 [Life Sciences South Building](/digital/campus/buildings/lifesciencessouth), reinforcing campus architectural identity. Stylistic distinctions include corbelled arches, suble window finishes, and simplified exterior wall supports, which evoke earlier campus architecture with cleaner, minimal lines.[^2]
