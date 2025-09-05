@@ -57,8 +57,8 @@ Building records cite "Sources" given with an abbreviation used in the original 
 - UG 13: President's Office (Hartung). Papers, 1965-1977.
 - UG 39: A. T. Schenck. Papers relating to the building of Memorial Gym, 1927-1929.
 - UG 44: University building histories, 1890-1961
-- Facilities, Architectural and Engineering Services Website <a href="http://www.uidaho.edu/facilities/ae">http://www.uidaho.edu/facilities/ae</a>
-- Facilities, Architectural and Engineering Services Website, Dedications Plaques and Stones pdf</p>
+- [Facilities, Architectural and Engineering Services Website](https://web.archive.org/web/20151128190634/http://www.uidaho.edu/facilities/ae)
+- Facilities, Architectural and Engineering Services Website, Dedications Plaques and Stones pdf
  
 Initially compiled by Judith Nielsen, 1995.
 The full original web page can be seen in the [archived Campus Buildings list](https://web.archive.org/web/20170629231145/http://lib.uidaho.edu/special-collections/uibuildings.html).
