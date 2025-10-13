@@ -1,5 +1,5 @@
 ---
-buildingid: integratedresearchandinnovationcenter
+buildingid: iric
 title: Integrated Research and Innovation Center
 ---
 
@@ -15,11 +15,9 @@ The IRIC was designed in a 21st-century Modern style. It emphasizes rectilinear 
 
 ### Physical Description
 
-The building is a 3.5-story, rectangular-form structure with curtain wall fenestration on the east façade. Red-metal cladding, glass, and red-brick masonry combine to create a visual link to surrounding buildings. The structure rests on a reinforced concrete foundation built into the hillside and includes balconies on the second and third floors, concrete staircases, and glass-and-metal doors.[^3]
+The building is a 3.5-story, rectangular-form structure with curtain wall fenestration on the east façade. Red-metal cladding, glass, and red-brick masonry combine to create a visual link to surrounding buildings. The structure rests on a reinforced concrete foundation built into the hillside and includes balconies on the second and third floors, concrete staircases, and glass-and-metal doors.
 
 ### Notes
 
-[^1]: Kathy Juarez, *National Register of Historic Places Historic Context and Evaluation for: the Wallace Residence Center, the Lionel Hampton Music Building, the College of Education Building, and the Integrated Research and Innovation Center*, ed. Shelley Walker-Harmon and Nathan J. Moody (University of Idaho, 2024).
-[^2]: Ibid.
-[^3]: Ibid.
-
+[^1]: [NBBJ, Integrated Research and Innovation Center project](https://www.nbbj.com/work/university-of-idaho-integrated-research-and-innovation-center) ([archive](https://perma.cc/HLB2-6T8H))
+[^2]: Kathy Juarez, *National Register of Historic Places Historic Context and Evaluation for: the Wallace Residence Center, the Lionel Hampton Music Building, the College of Education Building, and the Integrated Research and Innovation Center*, ed. Shelley Walker-Harmon and Nathan J. Moody (University of Idaho, 2024).
