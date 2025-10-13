@@ -1,7 +1,7 @@
 ---
-title: Browse
+title: Browse Campus Photographs
 layout: browse
 permalink: /browse.html
 ---
 
-## Browse Items
+## Browse Campus Photographs
