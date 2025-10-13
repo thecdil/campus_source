@@ -48,43 +48,50 @@ item-meta: true
 
     <div class="row justify-content-center pt-3">
         <div class="col-md-8" id="building-info">
+            <div class="card mb-4">
+                <h3 class="card-header">Building Overview</h3>
+                <div class="card-body">
+                    {% if page.date %}
+                    <p><strong>Date:</strong> {{ page.archival_date }}{% if page.date_notes %}. {{ page.date_notes }}{% endif %}</p>
+                    {% endif %}
+                    {% if page.standing %}
+                    <p><strong>Standing:</strong> {{ page.standing }}{% if page.standing_notes %}. {{ page.standing_notes }}{% endif %}</p>
+                    {% endif %}
+                    {% if page.name_history %}
+                    <p><strong>Name History:</strong> {{ page.name_history }}</p>
+                    {% endif %}
+                    {% if page.architect %}
+                    <p><strong>Architect:</strong> {{ page.architect }}</p>
+                    {% endif %}
+                    {% if page.architectural_style %}
+                    <p><strong>Architectural Style:</strong> {{ page.architectural_style }}</p>
+                    {% endif %}
+                    {% if page.description %}
+                    <p><strong>Description:</strong> {{ page.description }}</p>
+                    {% endif %}
+                    {% if page.additions %}
+                    <p><strong>Additions:</strong> {{ page.additions }}</p>
+                    {% endif %}
+                    {% if page.use_history %}
+                    <p><strong>Use History:</strong> {{ page.use_history }}</p>
+                    {% endif %}
+                    {% if page.cost %}
+                    <p><strong>Cost:</strong> {{ page.cost }}{% if page.cost_notes %}. {{ page.cost_notes }}{% endif %}</p>
+                    {% endif %}
+                    {% if page.sources %}
+                    <p><strong>Sources:</strong> {{ page.sources }}</p>
+                    {% endif %}
+                </div>
+            </div>
 
             {% assign history = site.histories | where: 'buildingid', page.objectid | first %}
             {% assign history_content = history.content | strip %}
             {% if history_content != "" %}
-            <h3>History</h3>
+            <h3 class="h2">History</h3>
             {{ history_content }}
             {% endif %}
 
-            <h3>Building Information</h3>
-
-            {% if page.architect %}
-            <p><strong>Architect:</strong> {{ page.architect }}</p>
-            {% endif %}
-            {% if page.description %}
-            <p><strong>Description:</strong> {{ page.description }}</p>
-            {% endif %}
-            {% if page.additions %}
-            <p><strong>Additions:</strong> {{ page.additions }}</p>
-            {% endif %}
-            {% if page.use_history %}
-            <p><strong>Use History:</strong> {{ page.use_history }}</p>
-            {% endif %}
-            {% if page.date %}
-            <p><strong>Date:</strong> {{ page.archival_date }}</p>
-            {% endif %}
-            {% if page.date_notes %}
-            <p><strong>Date Notes:</strong> {{ page.date_notes }}</p>
-            {% endif %}
-            {% if page.cost %}
-            <p><strong>Cost:</strong> {{ page.cost }}</p>
-            {% endif %}
-            {% if page.cost_notes %}
-            <p><strong>Cost Notes:</strong> {{ page.cost_notes }}</p>
-            {% endif %}
-            {% if page.sources %}
-            <p><strong>Sources:</strong> {{ page.sources }}</p>
-            {% endif %}
+            
             {% unless images == empty %}
             <h3 id="image-browse" class="mt-5">Images of {{ page.title }}</h3>
             {% endunless %}
