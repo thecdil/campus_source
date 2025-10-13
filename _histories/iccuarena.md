@@ -20,6 +20,6 @@ The arena covers 67,000 square feet and seats more than 4,000 spectators. The in
 ### Notes
  
 
- [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 69-71.    
-[^2]: Ibid.  
-[^3]: Ibid.   
+ [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 69-71. 
+[^2]: Ibid. 
+[^3]: Ibid. 

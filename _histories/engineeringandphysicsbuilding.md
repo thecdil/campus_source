@@ -10,8 +10,8 @@ The design combines Postmodern elements, such as a gabled roof and parapet ends,
 
 ### Physical Description
 The “L”-shaped, four-story building features a concrete foundation, metal roof, metal-trimmed windows, and metal-and-glass doors. Its exterior is primarily red-pressed brick laid in stretcher bond consistent with the campus motif. The building includes a large auditorium, lecture halls, classrooms, offices, labs, and storage.[^3]
-  
-### Notes  
-[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 61.  
-[^2]: Ibid.  
+ 
+### Notes 
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 61. 
+[^2]: Ibid. 
 [^3]: Ibid. 

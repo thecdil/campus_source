@@ -9,9 +9,9 @@ The Idaho Student Union Building (ISUB), formerly known as Idaho Commons, was de
 The building is semi-detached, and irragular in form. It is comprised of 78,000 square feet. The exterior design incorporates red stretcher-bond brick, precast concrete panels, and floor-to-ceiling windows on several faces. A circular rotunda entrance adjoins a large glass atrium, creating a welcoming focal point for visitors.[^2]
 
 ### Physical Description
-The exterior is made of of red brick, concrete panels, and large windows. These floor-to-ceiling windows with fixed sashes and plain trim appear on multiple elevations, with no sills. Doors are glass with metal frames, visually consistent with the fenestration. The roof is flat.[^3]  
+The exterior is made of of red brick, concrete panels, and large windows. These floor-to-ceiling windows with fixed sashes and plain trim appear on multiple elevations, with no sills. Doors are glass with metal frames, visually consistent with the fenestration. The roof is flat.[^3] 
 
-### Notes  
-[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 63.  
-[^2]: Ibid.  
+### Notes 
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 63. 
+[^2]: Ibid. 
 [^3]: Ibid. 

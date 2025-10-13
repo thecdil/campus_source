@@ -14,6 +14,6 @@ The structure comprises steel-reinforced concrete masonry units set on a slab an
 
 
 ### Notes. 
-[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 55.  
-[^2]: Ibid.  
-[^3]: Ibid.  
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 55. 
+[^2]: Ibid. 
+[^3]: Ibid. 

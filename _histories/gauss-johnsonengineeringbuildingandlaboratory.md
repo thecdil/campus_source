@@ -17,14 +17,14 @@ The building is made up of two floors, a penthouse level, and a full basement. I
 
 
 ### Charles Luther Kirtley
-![placeholder image for Charles Luther Kirtley](https://objects.lib.uidaho.edu/harvester/small/pg3_075a_sm.jpg)  
+![placeholder image for Charles Luther Kirtley](https://objects.lib.uidaho.edu/harvester/small/pg3_075a_sm.jpg) 
 
-Charles Luther Kirtley (1872–1938) was a graduate of the University of Idaho. He entered the university in 1893 and was one of the first four students to earn a degree in 1896, earning distinction not only for his academic achievements but also as a dedicated student-athlete—playing half-back on the inaugural football team and competing in track and field relay events. [^6]  
+Charles Luther Kirtley (1872–1938) was a graduate of the University of Idaho. He entered the university in 1893 and was one of the first four students to earn a degree in 1896, earning distinction not only for his academic achievements but also as a dedicated student-athlete—playing half-back on the inaugural football team and competing in track and field relay events. [^6] 
 
-After graduating, he pursued medical studies at Rush Medical School, completed an internship in Portland, and dedicated his career to practicing medicine in rural Idaho, particularly in Challis, a community he served until his death in 1938. [^7] His legacy is honored on campus through the Charles L. Kirtley Engineering Laboratory, reflecting his personal and educational contributions to the university.[^8]  
+After graduating, he pursued medical studies at Rush Medical School, completed an internship in Portland, and dedicated his career to practicing medicine in rural Idaho, particularly in Challis, a community he served until his death in 1938. [^7] His legacy is honored on campus through the Charles L. Kirtley Engineering Laboratory, reflecting his personal and educational contributions to the university.[^8] 
 
 ### Henry Fallenstein Gauss
-Henry Fallenstein Gauss (1885–1968), great-grandson of Karl Friedrich Gauss, was a professor and administrator at the University of Idaho who contributed to the development of its engineering programs. He was born in Brazil, and after earning degrees from Washington University in Missouri, he worked as an engineer in Missouri and Illionois. Later he took a position at Akron University in Ohio. In 1925 he moved to Moscow to become the head of mechanical engineering at the University of Idaho. He died at Gritman hospital in 1968.   
+Henry Fallenstein Gauss (1885–1968), great-grandson of Karl Friedrich Gauss, was a professor and administrator at the University of Idaho who contributed to the development of its engineering programs. He was born in Brazil, and after earning degrees from Washington University in Missouri, he worked as an engineer in Missouri and Illionois. Later he took a position at Akron University in Ohio. In 1925 he moved to Moscow to become the head of mechanical engineering at the University of Idaho. He died at Gritman hospital in 1968. 
 
 He served as the head of the Department of Mechanical Engineering for several decades, playing an important role in shaping the department's curriculum and research initiatives. Gauss aided in the establishment of the Kirtley Engineering Laboratory, which later became the Gauss-Johnson Engineering Building and Laboratory. This reflected his lasting impact on the university's infrastructure and academic legacy.[^9].
 
@@ -33,16 +33,16 @@ J. Hugo Johnson (left)
 ### J. Hugo Johnson. 
 Dr. J. Hugo Johnson was the chair of the Electrical Engineering department at the University of Idaho circa 1960.[^10]
 
-### Notes  
+### Notes 
 
-[^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 33, 34.  
-[^2]: Ibid.  
-[^3]: Ibid.  
-[^4]: Ibid.  
-[^5]: Ibid.   
-[^6]: Harvester. “Charles Luther Kirtley.” University of Idaho Digital Archives. Accessed July 22, 2025. https://harvester.lib.uidaho.edu/posts/2022/08/15/charles-luther-kirtley.html.  
-[^7]: Archives West. “Charles Luther Kirtley Papers, 1872-1938.” Orbis Cascade Alliance. Accessed July 22, 2025. https://archiveswest.orbiscascade.org/ark:/80444/xv42683.  
-[^8]: Moody, University of Idaho Historic District (2025), 33–34.  
-[^9]: "Henry Fallenstein Gauss (1885–1968)," Find A Grave Memorial, accessed July 22, 2025, https://www.findagrave.com/memorial/216400485/henry_fallenstein-gauss.  
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 33, 34. 
+[^2]: Ibid. 
+[^3]: Ibid. 
+[^4]: Ibid. 
+[^5]: Ibid. 
+[^6]: Harvester. “Charles Luther Kirtley.” University of Idaho Digital Archives. Accessed July 22, 2025. https://harvester.lib.uidaho.edu/posts/2022/08/15/charles-luther-kirtley.html. 
+[^7]: Archives West. “Charles Luther Kirtley Papers, 1872-1938.” Orbis Cascade Alliance. Accessed July 22, 2025. https://archiveswest.orbiscascade.org/ark:/80444/xv42683. 
+[^8]: Moody, University of Idaho Historic District (2025), 33–34. 
+[^9]: "Henry Fallenstein Gauss (1885–1968)," Find A Grave Memorial, accessed July 22, 2025, https://www.findagrave.com/memorial/216400485/henry_fallenstein-gauss. 
 [^10]: University of Idaho Library. "Gem of the Mountains Photograph, 1918." Accessed July 22, 2025. https://www.lib.uidaho.edu/digital/gemphotos/items/gemphotos0803.html.
 

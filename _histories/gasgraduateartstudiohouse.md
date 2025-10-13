@@ -11,8 +11,8 @@ The building reflects early 20th-century industrial vernacular design, with a re
 ### Physical Description
 It is constructed of reinforced concrete with a brick veneer, includes partial wood framing, and features a basement, two floors, and a raised loft. A clerestory runs the length of the roof, flanked by shed-roofed wings.[^3]
 
-### Notes  
+### Notes 
 
-[^1]:  Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 20.  
-[^2]: Ibid.  
-[^3]: Ibid.  
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 20. 
+[^2]: Ibid. 
+[^3]: Ibid. 

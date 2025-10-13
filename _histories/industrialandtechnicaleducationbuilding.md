@@ -19,14 +19,14 @@ The roof has a very low pitch with an open gable facing both north and south. Th
 
 ### Alfred W. Bowers
 
-![Photograph of Alfred W. Bowers](https://objects.lib.uidaho.edu/campus/campus01951.jpg)   
+![Photograph of Alfred W. Bowers](https://objects.lib.uidaho.edu/campus/campus01951.jpg) 
 
 Alfred W. Bowers (1901–1990) was an anthropology professor at the University of Idaho, serving from 1949 to 1967.[^3] He led research on the Mandan, Hidatsa, and Arikara tribes, conducted archaeological excavations in Idaho and South Dakota, and represented Indigenous communities in federal land claims cases. The university named the Alfred W. Bowers Laboratory of Anthropology in his honor in 1984.[^4]
 ### Notes
 
 [^1] “Theatre Facilities.” University of Idaho. https://www.uidaho.edu/class/theatre/facilities.
 
-[^2]  “Alfred W. Bowers Laboratory of Anthropology.” University of Idaho. https://www.uidaho.edu/class/anthrolab.
+[^2] “Alfred W. Bowers Laboratory of Anthropology.” University of Idaho. https://www.uidaho.edu/class/anthrolab.
 
-[^3] "Museum. University of Idaho. Dr. Alfred Bowers and ancient mammal bones. [251-3]", University of Idaho Campus Photographs Collection, University of Idaho Library Digital Collections, https://www.lib.uidaho.edu/digital/campus/items/campus01951.html  
+[^3] "Museum. University of Idaho. Dr. Alfred Bowers and ancient mammal bones. [251-3]", University of Idaho Campus Photographs Collection, University of Idaho Library Digital Collections, https://www.lib.uidaho.edu/digital/campus/items/campus01951.html 
 [^4] Alfred W. Bowers Obituary, Lewiston Tribune, August 8, 1990 (reprinted in archives), University of Idaho, accessed August 1, 2025.
