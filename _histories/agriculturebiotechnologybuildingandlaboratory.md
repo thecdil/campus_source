@@ -12,10 +12,11 @@ Construction began in 1998 and concluded in 2001, marking the final major projec
 The design of the Agricultural Science Building is contemporary, emphasizing rectilinear forms with Neo Deco-inspired elements. Unique materials such as green tile support the Neo-Deco characteristics, giving the building an almost timeless appearance. The building also incorperates a campus staple–red brick–imparting a collegiate continuity to the design, while the green tile and varied projections anchor the building firmly in the 21st-century. 
  
 ### Physical Description
-The 48,000-square-foot, 3.5-story building is composed of steel-reinforced concrete, red-pressed brick, glass, and metal paneling, and features contrasting green tile. The east elevation showcases a central projection highlighted by horizontal fenestration bands, vertically divided by twin buttresses and clad in green tile. Dual-paned, metal-framed windows and standard ADA-compliant glass-inset metal doors appear throughout.[^4] The north and west facades are marked by unornamented bands of sash windows with flush-light transoms, while the south elevation connects to the Agricultural Sciences Building. [^5]
 
+The 48,000-square-foot, 3.5-story building is composed of steel-reinforced concrete, red-pressed brick, glass, and metal paneling, and features contrasting green tile. The east elevation showcases a central projection highlighted by horizontal fenestration bands, vertically divided by twin buttresses and clad in green tile. Dual-paned, metal-framed windows and standard ADA-compliant glass-inset metal doors appear throughout.[^4] The north and west facades are marked by unornamented bands of sash windows with flush-light transoms, while the south elevation connects to the Agricultural Sciences Building.[^5]
 
 ### Notes 
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 64. 
 [^2] Kathy Hedburg, “Biotech Building Called Key to Ag’s Future,” Lewiston Tribune, October 24, 1998. 
 [^3]: Moody, “National Register of Historic Places—Registration Form,” 64. 

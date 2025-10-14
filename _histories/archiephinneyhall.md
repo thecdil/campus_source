@@ -3,7 +3,7 @@ buildingid: archiephinneyhall
 title: Archie Phinney Hall
 ---
 
-Archie Phinney Hall, originally named Chrisman Hall after Brigadier General Edward R. Chrisman, was constructed in 1938 as a companion to [Willis Sweet Hall](/digital/campus/buildings/carolryriebrinkhall) to provide supplemental dormitory space. 
+Archie Phinney Hall, originally named Chrisman Hall after Brigadier General Edward R. Chrisman, was constructed in 1938 as a companion to [Willis Sweet Hall](/digital/campus/buildings/carolryriebrinkhall.html) to provide supplemental dormitory space. 
 Designed by Hugh Richardson of Lewiston and based on plans by Whitehouse & Price of Spokane, it was built by the Howard S. Wright Company of Seattle for $388,130, funded through regents’ and local bonds. 
 It was connected to Willis Sweet Hall via a shared kitchen, and provided housing for 111 male students. 
 
@@ -11,11 +11,12 @@ The the name of the hall was changed in 1987 from Chrisman Hall to Archie Phinne
 As of 2024, it is home to the Department of Culture, Society and Justice.[^1]
 
 ### Design
-Archie Phinney Hall is an example of Collegiate Gothic-style on campus. It features Gothic-arched entryways, along with simple details influenced by the English Arts and Crafts movement. The building emphasizes simplicity over ornamentation, similar to its partner, [Brink Hall ](/digital/campus/buildings/carolryriebrinkhall)(Previously named Willis Sweet Hall). The design of the building celebrates both effeciency and intentional aesthetics. [^2]
+
+Archie Phinney Hall is an example of Collegiate Gothic-style on campus. It features Gothic-arched entryways, along with simple details influenced by the English Arts and Crafts movement. The building emphasizes simplicity over ornamentation, similar to its partner, [Brink Hall ](/digital/campus/buildings/carolryriebrinkhall.html)(Previously named Willis Sweet Hall). The design of the building celebrates both effeciency and intentional aesthetics.[^2]
 
 ### Physical Description
 
-Archie Phinney Hall is a four-story, L-shaped masonry building. It has a gabled-belcast stone coated metal roof and burnt red brick walls accented by clinker bricks. The fourth floor is dotted with dormers. Its windows are mainly six-over-six sash, arranged symmetrically except for the elevator tower addition from 1999. This addition was built to echo the hall's original design. Built into on a grassy hillside, the hall is bordered on one side by the Academic Mall, and surrounded by campus buildings. [^3] 
+Archie Phinney Hall is a four-story, L-shaped masonry building. It has a gabled-belcast stone coated metal roof and burnt red brick walls accented by clinker bricks. The fourth floor is dotted with dormers. Its windows are mainly six-over-six sash, arranged symmetrically except for the elevator tower addition from 1999. This addition was built to echo the hall's original design. Built into on a grassy hillside, the hall is bordered on one side by the Academic Mall, and surrounded by campus buildings.[^3] 
 
 ### Archie Phinney 
 
@@ -27,11 +28,12 @@ Archie Phinney was born on September 4, 1904, in Culdesac, Idaho, and passed
 
 ![General Chrisman placeholder image](https://objects.lib.uidaho.edu/harvester/small/pg3-47n_sm.jpg) 
 
-General Edward R. Chrisman (1866–1939), Idaho's "Grand Old Man", had a long and celebrated career at the University of Idaho. He arrived at the school in 1894 to establish the Military Science Department while also teaching mathematics. [^5]
+General Edward R. Chrisman (1866–1939), Idaho's "Grand Old Man", had a long and celebrated career at the University of Idaho. He arrived at the school in 1894 to establish the Military Science Department while also teaching mathematics.[^5]
 
 Chrisman was a West Point graduate with distinguished service in the Spanish-American War. He served as Professor of Military Science and later as Commandant of Cadets at the University of Idaho. In 1936, Congress honored him with an emeritus appointment, a role he held for the remainder of his life.[^6] His tenure at the university spanned over 40 years, including a cumulative 22 years of teaching and instruction.[^7] 
 
 ### Notes 
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 31. 
 [^2]: Ibid. 
 [^3]: Ibid. 

@@ -15,22 +15,21 @@ By the 1970s, demand again outpaced capacity, prompting the addition of a large 
 
 The original building is a four-story, reinforced concrete structure with a flat roof and stretcher bond brick veneer. Long horizontal ribbon windows and minimal ornamentation reflect International Style influences. A large auditorium projects from the south end. The 1970s addition nearly doubled the usable space and echoes the original materials while introducing recessed entries and tall brick-clad columns with vertical window groupings.[^4]
 
- The east elevation features stacked window bands and a prominent bas-relief of an early 20th-century agricultural scene. Entrances are primarily aluminum-framed glass doors set beneath modest awnings or galleries. An enclosed skywalk at the building’s north end connects it to the nearby Agricultural Biotechnology building, reinforcing the structure’s continuing role in the evolving agricultural sciences complex.[^5]
+The east elevation features stacked window bands and a prominent bas-relief of an early 20th-century agricultural scene. Entrances are primarily aluminum-framed glass doors set beneath modest awnings or galleries. An enclosed skywalk at the building’s north end connects it to the nearby Agricultural Biotechnology building, reinforcing the structure’s continuing role in the evolving agricultural sciences complex.[^5]
  
 ### E. J. Iddings 
 
 ![E.J. Iddings Among vegetation.](https://objects.lib.uidaho.edu/iddings/spec_ji383.jpg)
  
- Edward John Iddings (1879–1954) was an important figure as part of Idaho’s agricultural education. He served as Dean of the University of Idaho’s College of Agriculture from 1915 to 1946, and helped to shape the college during a period of major growth and change. 
- 
- Iddings was raised on a 350-acre farm in Indiana, and went on to earn degrees from Colorado Agricultural College (now Colorado State University). He later worked for the U.S. Department of Agriculture before joining the faculty of the University of Idaho in 1910.[^6] 
+Edward John Iddings (1879–1954) was an important figure as part of Idaho’s agricultural education. He served as Dean of the University of Idaho’s College of Agriculture from 1915 to 1946, and helped to shape the college during a period of major growth and change. 
 
- As the namesake of the E.J. Iddings Agricultural Science Building, Iddings’s legacy endures. His career and contributions are preserved in four scrapbooks which are housed in the University of Idaho Library. These scrapbooks offer a glimpse into the evolution of agriculture and education in the state.[^7]
+Iddings was raised on a 350-acre farm in Indiana, and went on to earn degrees from Colorado Agricultural College (now Colorado State University). He later worked for the U.S. Department of Agriculture before joining the faculty of the University of Idaho in 1910.[^6] 
 
+As the namesake of the E.J. Iddings Agricultural Science Building, Iddings’s legacy endures. His career and contributions are preserved in four scrapbooks which are housed in the University of Idaho Library. These scrapbooks offer a glimpse into the evolution of agriculture and education in the state.[^7]
 
-### Notes 
+### Notes
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 38,39.
- 
 [^2]: Ibid, 38. 
 [^3]: Ibid. 
 [^4]: Ibid. 
