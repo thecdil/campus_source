@@ -1,5 +1,5 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+archival_date,Date,true
+standing,Standing,false
+name_history,Name History,true
+location_description,Location,true
