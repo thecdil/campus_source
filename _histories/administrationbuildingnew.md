@@ -1,5 +1,4 @@
 ---
-
 buildingid: administrationbuildingnew
 title: Administration Building (New)
 --- 

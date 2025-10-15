@@ -17,7 +17,7 @@ The Alberston building is made of steel-reinforced smooth-dressed concrete, and 
 
 ### Joseph Albert Albertson 
 
-![placeholder image for J.A. Alberston](https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/blt43489f504b6c6826/66993e5bfd135fa16a23641f/1205_SNJoeAlbertson.jpg?width=200&auto=webp&quality=80&disable=upscale) 
+{% include feature/image.html objectid="https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/blt43489f504b6c6826/66993e5bfd135fa16a23641f/1205_SNJoeAlbertson.jpg?width=200&auto=webp&quality=80&disable=upscale" caption="Joseph Albert Albertson" %}
 
 Joseph Albert Albertson (1906-1993) was an American entrepreneur and the founder of the Albertsons grocery store chain, which grew to become one of the largest food and drug retailers in the United States. [5]
 

@@ -9,7 +9,7 @@ Construction began in 1998 and concluded in 2001, marking the final major projec
 
 ### Design
 
-The design of the Agricultural Science Building is contemporary, emphasizing rectilinear forms with Neo Deco-inspired elements. Unique materials such as green tile support the Neo-Deco characteristics, giving the building an almost timeless appearance. The building also incorperates a campus staple–red brick–imparting a collegiate continuity to the design, while the green tile and varied projections anchor the building firmly in the 21st-century. 
+The design of the Agricultural Science Building is contemporary, emphasizing rectilinear forms with Neo Deco-inspired elements. Unique materials such as green tile support the Neo-Deco characteristics, giving the building an almost timeless appearance. The building also incorporates a campus staple–red brick–imparting a collegiate continuity to the design, while the green tile and varied projections anchor the building firmly in the 21st-century. 
  
 ### Physical Description
 

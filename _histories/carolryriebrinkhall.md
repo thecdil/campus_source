@@ -13,7 +13,7 @@ The building has endured challenges, including a 1956 arson incident that caused
 
 ### Carol Ryrie Brink 
 
-![placeholder image of Carol Ryrie Brink](https://objects.lib.uidaho.edu/lcoh/small/Brink-C_02.jpg) 
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/lcoh/small/Brink-C_02.jpg" link="https://www.lib.uidaho.edu/digital/lcoh/people/brink_carol.html" caption="Carol Ryrie Brink" %}
 
 Carol Ryrie Brink (1895–1981), born and raised in Moscow, Idaho, was a prolific author of over thirty books—both for children and adults—including the 1936 Newbery Medal–winning *Caddie Woodlawn*. [^6] 
 
@@ -21,7 +21,7 @@ During her time at the University of Idaho (1914–1917), she contributed to The
 
 ### Willis Sweet
 
-![placeholder image of Willis Sweet](https://bioguide.congress.gov/photo/7deeb824e2032d46cf52022ff3a77038.jpg) 
+{% include feature/image.html objectid="https://bioguide.congress.gov/photo/7deeb824e2032d46cf52022ff3a77038.jpg" caption="Willis Sweet" %} 
 
 Willis Sweet (1856–1925) greatly aided the establishment of the University of Idaho in Moscow. Sweet was a lawyer, newspaper editor, and rising political figure in the late 1880s, and he personally drafted the legislation (alongside legislator John W. Brigham) that led to the university’s creation. Sweet successfully lobbied the territorial legislature while still in his pajamas to get the bill passed the next morning. [^9] Sweet went on to serve as the first president of the university’s Board of Regents and remained deeply involved in its early governance and identity. [^10]
 

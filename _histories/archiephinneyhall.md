@@ -20,13 +20,13 @@ Archie Phinney Hall is a four-story, L-shaped masonry building. It has a gabled-
 
 ### Archie Phinney 
 
-![Archie Phinney placeholder image](https://images.squarespace-cdn.com/content/v1/5a3be988017db211a8409aea/1524861119483-AARYPJ1CNHCH2R8QVBBS/Archie+Phinney+38+1+fig+2.JPG?format=1500w)
+{% include feature/image.html objectid="https://images.squarespace-cdn.com/content/v1/5a3be988017db211a8409aea/1524861119483-AARYPJ1CNHCH2R8QVBBS/Archie+Phinney+38+1+fig+2.JPG?format=1500w" caption="Archie Phinney" %}
 
 Archie Phinney was born on September 4, 1904, in Culdesac, Idaho, and passed away on October 29, 1949, in Lewiston, Idaho, at the age of 45. He was the first Nez Perce to earn a B.A. from the University of Kansas, and the first Plateau Indian to receive a Ph.D. He authored *Nez Perce Texts*, a significant contribution to the preservation of Nez Perce language and oral tradition. Phinney worked for many years with the Bureau of Indian Affairs at the North Idaho Agency and played a vital role in the formation of the National Congress of American Indians (NCAI). His career focused on improving conditions for the Nez Perce and advancing their status as a sovereign nation within the United States. Though he died young, his work had a lasting influence on Native advocacy, policy, and education. [^4]
 
 ### Edward R. Chrisman 
 
-![General Chrisman placeholder image](https://objects.lib.uidaho.edu/harvester/small/pg3-47n_sm.jpg) 
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/harvester/small/pg3-47n_sm.jpg" link="https://harvester.lib.uidaho.edu/collection/items/lumber1403.html" caption="Edward Robert Chrisman" %}
 
 General Edward R. Chrisman (1866–1939), Idaho's "Grand Old Man", had a long and celebrated career at the University of Idaho. He arrived at the school in 1894 to establish the Military Science Department while also teaching mathematics.[^5]
 

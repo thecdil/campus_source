@@ -5,15 +5,15 @@ title: Administration Lawn, Olmsted Green
 
 The Administration Lawn was envisaged in 1908 by John C. Olmsted of the renowned landscape architecture firm Olmsted Brothers. In his report to University of Idaho President James MacLean, Olmsted referred to the area as “Center Campus,” underscoring its intended role as the university’s central green space. It remains the only surviving component of Olmsted’s original campus plan. 
 
-![1908 Olmsted Plan](https://objects.lib.uidaho.edu/lrcdp/small/lrcdp-1908_sm.jpg)
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/lrcdp/small/lrcdp-1908_sm.jpg" link="https://www.lib.uidaho.edu/digital/lrcdp/items/lrcdp-1908.html" caption="1908 Olmsted Plan" %}
 
- Despite this, the original Olmsted plan has deeply impacted the long range expansion of campus, setting the standard of green space and trees as a repeated element in subsequent years. The present day volume of campus trees comes into sharp contrast when looking at early photographs of the Administration Building, and the intital construction of the Olmsted Green, where trees were scarce. 
+Despite this, the original Olmsted plan has deeply impacted the long range expansion of campus, setting the standard of green space and trees as a repeated element in subsequent years. The present day volume of campus trees comes into sharp contrast when looking at early photographs of the Administration Building, and the initial construction of the Olmsted Green, where trees were scarce. 
 
-![Img of Old Admin, no trees](https://objects.lib.uidaho.edu/campus/small/campus02095_sm.jpg)
+{% include feature/image.html objectid="campus02095" %}
  
 A prominent feature of the lawn is the Presidential Grove, a commemorative space that began in 1911 when former President Theodore Roosevelt visited the university and planted a tree. The tradition continued with additional plantings by notable figures, including President William Taft, Vice President Charles Curtis—the only Native American to serve in that role—and First Lady Eleanor Roosevelt. Each tree includes a dedication plaque memorializing the occasion.[^1] 
 
-![Roosevelt plants a tree](https://objects.lib.uidaho.edu/uihistorical/small/spec_uihp422_sm.jpg) 
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/uihistorical/small/spec_uihp422_sm.jpg" link="https://www.lib.uidaho.edu/digital/uihistorical/items/spec_uihp422.html" caption="Theodore Roosevelt's Tree" %}
 
 ### Design 
 
@@ -23,10 +23,11 @@ Olmsted envisioned a central lawn that would serve as a communal and symbolic he
 
 The eleven-acre lawn features a network of concrete pathways running east-west and north-south, with a stairway extending to the northeast toward Hello Walk, a tree-lined promenade leading to the Administration Building. The site is covered primarily in grass and dotted with mature trees arranged both along walkways and in more vernacular groupings. Notable features include a Spanish-American War Memorial Statue honoring University of Idaho students, remnants of a historic maple grove, tennis courts, and the tree-lined Presidential Grove at the lawn’s southern edge. More recent tree plantings, dating from the 1990s to the present, are identified with departmental signage.[^3]
 
-![Spanish-American War Memorial](https://objects.lib.uidaho.edu/campus/small/campus03067_sm.jpg)
+{% include feature/image.html objectid="campus03067" %}
 
-### Olmsted Brothers 
-![placeholder image for the Olmstead Brothers](https://www.tclf.org/sites/default/files/styles/crop_268x268/public/thumbnails/image/Olmsted-Brothers_sig.jpg?itok=VoHNW0Yt) 
+### Olmsted Brothers
+
+{% include feature/image.html objectid="https://www.tclf.org/sites/default/files/styles/crop_268x268/public/thumbnails/image/Olmsted-Brothers_sig.jpg?itok=VoHNW0Yt" caption="Olmsted Brothers" %}
 
 Following the retirement of Frederick Law Olmsted, Sr., his sons Frederick Law Olmsted, Jr. and John Charles Olmsted established the Olmsted Brothers firm, which grew into the leading landscape architecture practice in early 20th-century America. Their projects included expositions in Portland and Seattle, and major park systems in cities like Boston and Seattle. As founding members of the American Society of Landscape Architects, they were strong advocates for the profession. Their portfolio also spanned roadways, campuses, and civic spaces, and they prioritized preserving natural landscapes.[^4] 
 
