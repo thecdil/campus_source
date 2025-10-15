@@ -10,27 +10,31 @@ Kirtley Engineering Laboratory Unit No. 2 was constructed in 1949. Following Wor
 In 1968, the university renamed the two buildings: Unit No. 1 became the H.F. Gauss Mechanical Engineering Building, honoring the former department head; Unit No. 2 became the Johnson Electrical Engineering Laboratory, named for J. Hugo Johnson, former head of Electrical Engineering. The facilities were united as a single structure during a 1999 renovation, which added a penthouse level and merged the buildings into what is now the Gauss-Johnson Engineering Building and Laboratory (GJEBL).[^3]
 
 ### Design
+
 The GJEBL is an early campus example of Modern architecture, reflecting the transition from pre-war traditionalist styles toward a new, utilitarian sensibility. Its rectangular form, minimal ornamentation, and emphasis on function reflect an evolving approach to institutional design.[^4]
 
 ### Physical Description
+
 The building is made up of two floors, a penthouse level, and a full basement. Its structure consists of steel-reinforced concrete with a red-brick veneer laid in stretcher bond, while the penthouse level is sided in metal. A variety of window types and sizes appear across its different faces.[^5]
 
-
 ### Charles Luther Kirtley
-![placeholder image for Charles Luther Kirtley](https://objects.lib.uidaho.edu/harvester/small/pg3_075a_sm.jpg) 
+
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/harvester/small/pg3_075a_sm.jpg" link="https://harvester.lib.uidaho.edu/collection/items/lumber1802.html" caption="Charles L. Kirtley" %}
 
 Charles Luther Kirtley (1872–1938) was a graduate of the University of Idaho. He entered the university in 1893 and was one of the first four students to earn a degree in 1896, earning distinction not only for his academic achievements but also as a dedicated student-athlete—playing half-back on the inaugural football team and competing in track and field relay events. [^6] 
 
 After graduating, he pursued medical studies at Rush Medical School, completed an internship in Portland, and dedicated his career to practicing medicine in rural Idaho, particularly in Challis, a community he served until his death in 1938. [^7] His legacy is honored on campus through the Charles L. Kirtley Engineering Laboratory, reflecting his personal and educational contributions to the university.[^8] 
 
 ### Henry Fallenstein Gauss
+
 Henry Fallenstein Gauss (1885–1968), great-grandson of Karl Friedrich Gauss, was a professor and administrator at the University of Idaho who contributed to the development of its engineering programs. He was born in Brazil, and after earning degrees from Washington University in Missouri, he worked as an engineer in Missouri and Illionois. Later he took a position at Akron University in Ohio. In 1925 he moved to Moscow to become the head of mechanical engineering at the University of Idaho. He died at Gritman hospital in 1968. 
 
 He served as the head of the Department of Mechanical Engineering for several decades, playing an important role in shaping the department's curriculum and research initiatives. Gauss aided in the establishment of the Kirtley Engineering Laboratory, which later became the Gauss-Johnson Engineering Building and Laboratory. This reflected his lasting impact on the university's infrastructure and academic legacy.[^9].
 
-![Image of J. Hugo Johnson (left)](https://objects.lib.uidaho.edu/gemphotos/small/pg101-709-002_sm.jpg)
-J. Hugo Johnson (left)
-### J. Hugo Johnson. 
+### J. Hugo Johnson
+
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/gemphotos/small/pg101-709-002_sm.jpg" link="https://www.lib.uidaho.edu/digital/gemphotos/items/gemphotos0803.html" caption="Hugo Johnson (left) and students meeting with visitor from the DuPont Company" %}
+
 Dr. J. Hugo Johnson was the chair of the Electrical Engineering department at the University of Idaho circa 1960.[^10]
 
 ### Notes 

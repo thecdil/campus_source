@@ -14,16 +14,14 @@ The Menard Law Building reflects Brutalist-style geometry, disciplined by unifor
 The exterior is clad in stretcher bond brick masonry over poured concrete. Tiered concrete stairs channel foot traffic up to the recessed, window-surrounded main entrance on the east elevation. Brick planters and short square pillars with rowlock and soldier brick detailing tie the stair complex into the overall aesthetic. Fenestration is consistent, with sash windows set beneath flat arch tops of vertical joint bricks, slip sills, and header-brick mullions. Doors are metal with glass panels, many with flush-light transoms. Renovations since 1973 include a redesign of the main stairway to improve accessibility, completed in 2020. 
 
 ### Albert R. Menard 
-![placeholder image for Albert R. Menard](https://objects.lib.uidaho.edu/uihistorical/small/spec_uihp196_sm.jpg) 
+
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/uihistorical/small/spec_uihp196_sm.jpg" link="https://www.lib.uidaho.edu/digital/uihistorical/items/spec_uihp196.html" caption="Dean Albert R. Menard" %}
 
 Albert R. Menard Jr. (1918–1993) served as dean of the University of Idaho College of Law from 1967 to 1978 and continued teaching until his retirement in 1984. He led significant growth in the law school, helping to triple both enrollment and faculty during his tenure, and played a key role in securing a new building and law library, which the university named in his honor in 1984. The Idaho Bar Association presented him with a Resolution of Appreciation in 1977 in recognition of his leadership in developing the college.[^4] 
 
- Menard earned degrees from the University of Georgia, Columbia University, and completed law study at Harvard. He held faculty positions at Wake Forest and the University of Colorado before joining the University of Idaho. His service extended beyond academia through consulting roles for legal and civic organizations.[^5]
+Menard earned degrees from the University of Georgia, Columbia University, and completed law study at Harvard. He held faculty positions at Wake Forest and the University of Colorado before joining the University of Idaho. His service extended beyond academia through consulting roles for legal and civic organizations.
 
 ### Notes 
 
-[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 57-58. 
-[^2]: Ibid. 
-[^3]: Ibid. 
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 57-58
 [^4]: “Albert Menard Jr., 74, Retired UI Law Dean,” Lewiston Morning Tribune, July 17, 1993, https://www.lmtribune.com/obituaries/albert-menard-jr-74-retired-ui-law-dean-3896eeb5 
-[^5]

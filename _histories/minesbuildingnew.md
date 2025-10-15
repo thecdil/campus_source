@@ -13,7 +13,8 @@ The three-story structure exhibits International Style characteristics with a fu
 
 The Mines Building contains approximately 28,000 square feet of teaching, laboratory, and office space. It is constructed of steel-reinforced concrete on a smooth concrete foundation and features a flat roof and concrete masonry interior walls. The recessed entrance is located on the west side of the north elevation. The curtain wall’s bands of windows and ceramic-tile panels create a distinctive façade. The building’s geometry and minimal ornamentation emphasize the functional qualities typical of Modern design.[^3]
 
-### Notes. 
+### Notes
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 47-48. 
 [^2]: Ibid. 
 [^3]: Ibid. 

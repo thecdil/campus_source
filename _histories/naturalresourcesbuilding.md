@@ -14,7 +14,8 @@ The building features a three-story rectangular form with a rebar frame and conc
 
 The structure has a flat roof formed by a coffered concrete slab. The west elevation features a concave concrete wall clad in vertical wood slats, accessed by wide steps leading to an open veranda. The east elevation includes a second-floor balcony that functions as a pedestrian overpass. The north elevation curtain wall incorporates alternating wood and glass panels set in metal muntins beneath a deep overhang supported by concrete columns. Entrances consist primarily of metal and glass doors, with some metal utility doors.
 
-### Notes. 
+### Notes
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 56-57. 
 [^2]: Ibid. 
 [^3]: Ibid. 

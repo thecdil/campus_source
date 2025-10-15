@@ -15,7 +15,8 @@ The building reflects the university’s Collegiate Gothic architectural identit
 
 The three-story building features red pressed brick and a slate roof with dormers and gables. The façade includes cast-stone detailing around windows and doors. Gothic entrances emphasize verticality and historic character. Restoration efforts have maintained the building’s original materials and architectural features, preserving its role as a landmark of campus heritage.
 
-### Notes. 
+### Notes
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 21-22. 
 [^2]: Ibid. 
 [^3]: Ibid.

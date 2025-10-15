@@ -15,8 +15,8 @@ The Energy Plant was conceived as a large, functional industrial structure with 
 
 The building’s west and south façades retain much of their historic brickwork, offering a glimpse of its original 1920s industrial design. Later expansions, particularly on the east side, reveal a shift toward more utilitarian, form-follows-function construction. These architectural transitions highlight the plant’s dual identity as both a technological and stylistic landmark on campus.[^3]
  
- ### Notes
+### Notes
 
- [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 22-23. 
+[^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 22-23. 
 [^2]: Ibid. 
 [^3]: Ibid. 

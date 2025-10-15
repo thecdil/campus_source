@@ -14,6 +14,7 @@ The renovated structure follows a three-story, rectangular-form Postmodern desig
 The building has a flat primary roof. Windows are fixed-sash with plain trim and no sills. Doors are glass with metal frames. Interior classrooms and corridors were reconfigured during the 2003–2005 renovation to support flexible general-use classroom layouts.[^3] 
 
 ### Notes 
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 50-51. 
 [^2]: Ibid. 
 [^3]: Ibid. 

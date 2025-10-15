@@ -5,13 +5,9 @@ title: I Tank (New)
 
 The University "I Tank" has been a long-standing symbol of university spirit since its installation in 1952. Since it was constructed to replace its predecessor, it has become recognized across campus and the Palouse region as a cultural landmark. From its earliest years, the tank became a focal point for student traditions, a central rallying spot for fraternity pledging and spirited “raids” leading up to football games. Its presence, coupled with the bold black and gold “I” painted on its side, has helped anchor campus identity and foster a sense of shared community through generations of students and alumni.[^1]
 
-
-
 ### Design
 
 The I Tank was designed as a utilitarian water storage structure but has taken on a symbolic role far beyond its original function. Its ellipsoidal shape, combined with the striking university colors painted on its surface, transforms an industrial object into an emblem of school pride. The simplicity of its form allows the large “I” to stand out dramatically against the landscape, reinforcing its status as a campus icon.[^2]
-
-
 
 ### Physical Description
 

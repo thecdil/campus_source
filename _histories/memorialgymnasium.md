@@ -13,7 +13,8 @@ The gym’s exterior blends Tudor Collegiate Gothic with Art Deco elements, resu
 
 The Memorial Gymnasium is a large, rectangular structure with a red brick exterior accented by cast stone and detailed brickwork. Gothic window bays with stained glass punctuate the façade. The octagonal tower rises prominently, topped with finials and a pagoda-style dome. Gargoyles depicting “leatherhead” football players decorate the walls and window surrounds. The 1952 addition on the west end maintains the original building’s architectural style and materials, ensuring a cohesive exterior appearance.[^3] 
 
-### Notes. 
+### Notes
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 25-26. 
 [^2]: Ibid. 
 [^3]: Ibid. 

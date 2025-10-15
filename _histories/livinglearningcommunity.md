@@ -15,7 +15,8 @@ The LLC complex includes eight Postmodern, suite-style buildings arranged in a q
 
 Each H-form building is wood-framed and clad in red-pressed brick laid in stretcher bonds, with vinyl siding in a clapboard pattern and metal siding at the upper levels. LLC 1, 4, 5, 6, 7, and 8 are four stories tall, while LLC 2 and 3 rise to five stories. The taller buildings display a tripartite expression with rough-hewn brick bases, smooth-dressed brick bands, and vinyl-clad upper stories. Roofs are medium-hip forms with asphalt shingles, dormers, and two square cupolas. Window fenestration includes double-hung, four-sash vinyl windows with decorative mullions; windows set in brick walls rest on header-bond brick slipsills. Entrances are marked by bracketed metal hoods above single-leaf doors with side panels and transoms. A one-story commercial wing known as the 6th Street Marketplace connects LLC 1 and 2 at ground level and includes retail space open to the public. A similar wing connects LLC 2 to LLC 3 and houses the Housing and Residence Life information center.[^4] 
 
-### Notes. 
+### Notes
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 66-68. 
 [^2]: Ibid. 
 [^3]: Ibid. 

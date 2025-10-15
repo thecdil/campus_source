@@ -16,10 +16,13 @@ McConnell Hall originally reflected the International Style and was one of the u
 The three-story structure is composed of steel-reinforced concrete and concrete masonry units on a poured concrete foundation with a partial basement. Its original exterior featured stretcher-bond pressed brick, stucco-coated panels, and ribbon windows, with a medium-gable roof over the south section and a flat roof elsewhere. A wing extends irregularly from the southwest corner. A major renovation in 1995 dramatically transformed the building’s original character, incorporating Postmodern design elements such as corniced-box gables, updated doors, and a glass-block wall. This two-million-dollar overhaul modernized the structure but significantly altered its original design, materials, and feeling.[^4]. 
 
 ### William J. McConnell 
-![placeholder image for William J. McConnell](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWU2SOU5aqEuPW7ENGYqPnoG4hzbHbmHCnJzKmWVpBlnQ_gaxBlAF6CgayOBfIAx-Ut3nd6TSJRw5C3DBqpCXWaxDaESf8FjLu1hHCmhPy6ErgEH2mmGrq4qi9ZSbX3kcOdWSOwD46RJ0/s200/WJ_McConnell.jpg) 
+
+{% include feature/image.html objectid="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWU2SOU5aqEuPW7ENGYqPnoG4hzbHbmHCnJzKmWVpBlnQ_gaxBlAF6CgayOBfIAx-Ut3nd6TSJRw5C3DBqpCXWaxDaESf8FjLu1hHCmhPy6ErgEH2mmGrq4qi9ZSbX3kcOdWSOwD46RJ0/s200/WJ_McConnell.jpg" caption="William J. McConnell" %}
+
 William J. McConnell (1839–1925) began representing Latah County in the Idaho Constitutional Convention upon his arrival in Moscow and later served as Idaho’s third governor. He played a key role in locating the University of Idaho in Moscow, helping shape its origins. A residence hall—McConnell Hall—built in 1957 bears his name in recognition of that contribution. His legacy spans both public service and institutional foundations for the university and the region.[^5]
 
-### Notes. 
+### Notes
+
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 44-45. 
 [^2]: Ibid. 
 [^3]: Ibid. 
