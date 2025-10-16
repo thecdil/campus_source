@@ -1,0 +1,46 @@
+<script src="https://www.lib.uidaho.edu/assets/js/list.min.js"></script>
+<script>
+
+    // add items
+    var listDocs = [
+        {% assign listDocs = site.data.campus-buildings | sort: 'title' %}
+        {% for i in listDocs %}
+        {
+            title: {{ i.title | jsonify }},
+            date: {{ i.date | jsonify }},
+            a_date: {{ i.archival_date | jsonify }},
+            names: {{ i.name_history | jsonify }},
+            location: {{ i.location_description | jsonify }},
+            style: {{ i.architectural_style | jsonify }},
+            img: "{{ i.image_thumb }}",
+            id: "{{ i.objectid }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+
+    // setup list.js options and item template
+    var listOptions = {
+        item: function(values) {
+            var card = `<div class="card card-body mb-3">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <img class="img-fluid rounded" src="${values.img}" alt="${values.title}">
+                        </div>
+                        <div class="col-md-9 pt-2">
+                            <h2>${values.title}</h2>
+                            <p>
+                            ${ values.a_date ? values.a_date + '<br>' : '' }
+                            ${ values.location ? values.location + '<br>' : '' }
+                            ${ values.style ? values.style + '<br>' : '' }
+                            </p>
+                            <a href="{{ '/buildings/' | relative_url }}${values.id}.html" class="btn btn-sm btn-outline-primary stretched-link">View Record</a>
+                        </div>
+                    </div>`;
+            return card;
+        }
+
+    };
+    // init list.js
+    var documentList = new List('buildingList', listOptions, listDocs);
+
+</script>
