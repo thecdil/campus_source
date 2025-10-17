@@ -39,6 +39,6 @@ Chrisman was a West Point graduate with distinguished service in the Spanish-Ame
 [^3]: Ibid. 
 [^4]: Walker-Harmon, Shelley. "Archie Phinney Hall: Building History and Institutional Memory at the University of Idaho." HIST495: Senior History Seminar, Dr. Dale Graden, unpublished, University of Idaho, December 2024, 23-30. 
 [^5]: Special Collections and Archives, General Chrisman: Idaho’s Grand Old Man, University of Idaho Library, July 2, 2014, https://harvester.lib.uidaho.edu/posts/2014/07/02/general-chrisman-idahos-grand-old-man.html. 
-[^6] Ibid. 
+[^6]: Ibid. 
 [^7]: Walker-Harmon, "Archie Phinney Hall," 15.
  

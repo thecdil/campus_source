@@ -22,4 +22,4 @@ Gertrude L. Hays, wife of former Idaho attorney general and Boise mayor Samuel H
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 24. 
 [^2]: Ibid. 
 [^3]: Ibid. 
-[^4] Idaho Legal History Society, Idaho Legal History Society Newsletter, vol. IV, no. 4 (Fall 2012), Idaho Legal History Society, https://id.uscourts.gov/Content_Fetcher/index.cfml/ILHS_Newsletter_Fall_2012_2030.pdf.
+[^4]: Idaho Legal History Society, Idaho Legal History Society Newsletter, vol. IV, no. 4 (Fall 2012), Idaho Legal History Society, https://id.uscourts.gov/Content_Fetcher/index.cfml/ILHS_Newsletter_Fall_2012_2030.pdf.

@@ -18,7 +18,7 @@ The 48,000-square-foot, 3.5-story building is composed of steel-reinforced concr
 ### Notes 
 
 [^1]: Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 64. 
-[^2] Kathy Hedburg, “Biotech Building Called Key to Ag’s Future,” Lewiston Tribune, October 24, 1998. 
+[^2]: Kathy Hedburg, “Biotech Building Called Key to Ag’s Future,” Lewiston Tribune, October 24, 1998. 
 [^3]: Moody, “National Register of Historic Places—Registration Form,” 64. 
 [^4]: Ibid, 63. 
 [^5]: Ibid. 

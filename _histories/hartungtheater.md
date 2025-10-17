@@ -23,7 +23,7 @@ Ernest W. Hartung (1917–2003) served as the 12th president of the University o
 
 ### Notes
 
-[^1] Isabella Taylor, National Register of Historic Places Historic Context and Evaluation for the Idaho Commons, the Teaching and Learning Center, the Hartung Theater, and the Student Health Center, ed. Shelley Walker-Harmon (University of Idaho, 2024). 
+[^1]: Isabella Taylor, National Register of Historic Places Historic Context and Evaluation for the Idaho Commons, the Teaching and Learning Center, the Hartung Theater, and the Student Health Center, ed. Shelley Walker-Harmon (University of Idaho, 2024). 
 [^2]: Ibid. 
 [^3]: Ibid. 
 [^4]: Ibid. 
