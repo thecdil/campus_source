@@ -1,6 +1,6 @@
 ---
 buildingid: administrationlawnolmstedgreen
-title: Administration Lawn, Olmsted Green
+title: Administration Lawn (Olmsted Green)
 ---
 
 The Administration Lawn was envisaged in 1908 by John C. Olmsted of the renowned landscape architecture firm Olmsted Brothers. In his report to University of Idaho President James MacLean, Olmsted referred to the area as “Center Campus,” underscoring its intended role as the university’s central green space. It remains the only surviving component of Olmsted’s original campus plan. 
