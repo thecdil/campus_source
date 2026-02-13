@@ -1,7 +1,10 @@
 ---
-buildingid: campusarchitecture
-title: Campus Architecture
+title: U of I Campus Architecture
+layout: about
+permalink: /architecture.html
 ---
+
+## Overview of U of I Campus Architecture 
 
 The buildings and landscapes that make up the University of Idaho campus are the result of a long and layered architectural history. Each era of building and growth builds on the visual and functional cues of its predecessors. At the outset, early 20th-century revival styles such as Renaissance, Romanesque, and Classical Revival planted the seeds that would become a formal red brick theme—a motif that would set the standard for campus building design for the next century and beyond.
 
@@ -13,7 +16,7 @@ Following the postwar crunch, mid-century creativity abounded with Brutalist, Po
 
 Taken together, these changing waves of design and style map out the evolution of the University of Idaho’s built environment—tracing the various ways that architectural shifts reflect changing educational priorities, student growth, and societal trends. While many of these different categories have some overlap in time, the general progression from early 20th-century Revival through late 20th- to 21st-century Postmodern and Contemporary styles is clear, providing a comprehensive architectural history of campus life. 
 
-### Early 20th-Century Revival Styles (1902–1951)
+## Early 20th-Century Revival Styles (1902–1951)
 
 {% include feature/image.html objectid="campus02552" %}
 
@@ -47,7 +50,7 @@ The Memorial Gymnasium (1929) is a striking example of Collegiate Gothic on camp
   - Lionel Hampton Music Building (1951) – Collegiate Gothic
   - Niccolls Home Economics Building (1951) – Collegiate Gothic
  
-### Early to Mid-20th-Century Modern and Minimal Construction (1927–1965)
+## Early to Mid-20th-Century Modern and Minimal Construction (1927–1965)
 
 {% include feature/image.html objectid="campus02904" %}
 
@@ -70,7 +73,7 @@ The Food Science Building (1942), pictured above, is an excellent example of the
   - Engineering Annex (1965) – Minimal Traditional
   - PREEC Greenhouses (1956) – Industrial Vernacular
 
-### Mid-Century International and Brutalist Modernism (1950s–1970s)
+## Mid-Century International and Brutalist Modernism (1950s–1970s)
 
 {% include feature/image.html objectid="campus00494_sm.jpg" %}
 
@@ -96,7 +99,7 @@ Art and Architecture North (1966), pictured above, is one of the best examples o
   - Menard Law Building (1973) – Brutalist
   - Kibbie Dome / ASUI Activity Center (1975) – Modern / Quonset Hut
 
-### Late 20th-Century Postmodern, Contemporary, and 21st-Century Modern (1988–2021)
+## Late 20th-Century Postmodern, Contemporary, and 21st-Century Modern (1988–2021)
 
 {% include feature/image.html objectid="campus03109" %} 
 
@@ -118,6 +121,6 @@ Pictured above is the Agricultural Biotechnology Building (2001). This building 
   - Executive Residence (2019) – 21st-Century Modern
   - Idaho Central Credit Union Arena (2021) – Contemporary / Mimetic
 
-### Notes
+## Notes
 
 - Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 7-9.  

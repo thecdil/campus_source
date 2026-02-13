@@ -1,12 +1,14 @@
 display_name,stub,dropdown_parent
 Home,/,
 Buildings,/buildings/,
+Map,/map.html,
 Browse,
 All Photographs,/browse.html,Browse
 Campus Locations,/locations.html,Browse
 Subjects,/subjects.html,Browse
 Building Timeline,/campustimeline.html,Browse
 Photograph Timeline,/timeline.html,Browse
-Map,/map.html,
-Data,/data.html,
-About,/about.html,
+Photograph Data,/data.html,Browse
+About,,
+About the Collection,/about.html,About
+Overview of Campus Architecture,/architecture.html,About
