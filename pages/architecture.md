@@ -2,6 +2,22 @@
 title: U of I Campus Architecture
 layout: about
 permalink: /architecture.html
+# include CollectionBuilder info at bottom
+credits: false
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
+about-featured-image: campus02023
+# set background-position for featured image, "center", "top", "bottom"
+position: center
+# major heading to display over featured image
+heading: U of I Campus Architecture
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 ## Overview of U of I Campus Architecture 
@@ -75,7 +91,7 @@ The Food Science Building (1942), pictured above, is an excellent example of the
 
 ## Mid-Century International and Brutalist Modernism (1950s–1970s)
 
-{% include feature/image.html objectid="campus00494_sm.jpg" %}
+{% include feature/image.html objectid="campus00494" %}
 
 Art and Architecture North (1966), pictured above, is one of the best examples of an International Style curtain wall on campus.  
 
