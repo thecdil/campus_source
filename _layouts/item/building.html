@@ -1,125 +1,168 @@
 ---
+# custom layout for Building pages
 layout: default
 gallery: true
 item-meta: true
 ---
-
 {% assign images = site.data[site.metadata] | where_exp: "item", "item.buildingid == page.objectid" %}
+{% assign history = site.histories | where: 'buildingid', page.objectid | first %}
+{% assign history_content = history.content | strip %}
 
-<div class="container py-3">
-    <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/' | relative_url }}">Home</a></li>
-        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/buildings/index.html' | relative_url }}">Buildings</a></li>
-        <li class="breadcrumb-item active text-dark" aria-current="page">{{ page.title | truncatewords: 10 }}</li>
-    </ol>
+{% capture all-page-content %}
 
-    <div class="row mb-3">
-
-        <div class="col-md-12">
-            <h2>{{ page.title }}</h2>
-            <a href="#building-info" class="btn btn-outline-primary mb-4 mt-1 mr-2" >Building Information <svg class="bi icon-sprite" role="img" aria-label="Jump to Item Info">
-                <use xlink:href="{{ '/assets/css/cb-icons.svg' | relative_url }}#arrow-down"/>
-            </svg></a>
-            {% unless images == empty %}
-            <a href="#image-browse" class="btn btn-outline-primary mb-4 mt-1" >Browse Images <svg class="bi icon-sprite" role="img" aria-label="Jump to Item Info">
-                <use xlink:href="{{ '/assets/css/cb-icons.svg' | relative_url }}#arrow-down"/>
-            </svg></a>
-            {% endunless %}
-        </div>
-
-        <div class="col-md-6 p-3">
-            <figure class="figure mx-3 text-center">
-                <a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">
-                    <img class="figure-img img-fluid rounded lazyload"  alt="{{ page.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ page.image_small }}" >
-                </a>
-                <figcaption class="figure-caption"><a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">{{ page.title }}</a></figcaption>
-            </figure>
-        </div>
-
-        <div class="col-md-6 p-3">
-            {% include item/mini-map.html map-zoom=18 %}
-            <p><strong>Geographic Coordinates:</strong> {{ page.latitude }}, {{ page.longitude }}</p>
-            {% if page.location_description %}
-            <p><strong>Location:</strong> {{ page.location_description }}</p>
-            {% endif %}
-        </div>
-
+<div class="row">
+    <div class="col-md-6 p-4">
+        <figure class="figure text-center">
+            <a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">
+                <img class="figure-img img-fluid rounded lazyload"  alt="{{ page.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ page.image_small }}" >
+            </a>
+            <figcaption class="figure-caption"><a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">{{ page.title }}</a></figcaption>
+        </figure>
     </div>
+    <div class="col-md-6 p-4">
+        {% include item/mini-map.html map-zoom=18 %}
+        <p><strong>Geographic Coordinates:</strong> {{ page.latitude }}, {{ page.longitude }}</p>
+        {% if page.location_description %}
+        <p><strong>Location:</strong> {{ page.location_description }}</p>
+        {% endif %}
+    </div>
+</div>
 
-    <div class="row justify-content-center pt-3">
-        <div class="col-md-8" id="building-info">
-            <div class="card mb-4">
-                <h3 class="card-header">Building Overview</h3>
-                <div class="card-body">
-                    {% if page.date %}
-                    <p><strong>Date:</strong> {{ page.archival_date }}{% if page.date_notes %}. {{ page.date_notes }}{% endif %}</p>
-                    {% endif %}
-                    {% if page.standing %}
-                    <p><strong>Standing:</strong> {{ page.standing }}{% if page.standing_notes %}. {{ page.standing_notes }}{% endif %}</p>
-                    {% endif %}
-                    {% if page.name_history %}
-                    <p><strong>Name History:</strong> {{ page.name_history }}</p>
-                    {% endif %}
-                    {% if page.naming_notes %}
-                    <p><strong>Notes on Naming:</strong> {{ page.naming_notes }}</p>
-                    {% endif %}
-                    {% if page.architect %}
-                    <p><strong>Architect:</strong> {{ page.architect }}</p>
-                    {% endif %}
-                    {% if page.architectural_style %}
-                    <p><strong>Architectural Style:</strong> {{ page.architectural_style }}</p>
-                    {% endif %}
-                    {% if page.description %}
-                    <p><strong>Description:</strong> {{ page.description }}</p>
-                    {% endif %}
-                    {% if page.additions %}
-                    <p><strong>Additions:</strong> {{ page.additions }}</p>
-                    {% endif %}
-                    {% if page.use_history %}
-                    <p><strong>Use History:</strong> {{ page.use_history }}</p>
-                    {% endif %}
-                    {% if page.cost %}
-                    <p><strong>Cost:</strong> {{ page.cost }}{% if page.cost_notes %}. {{ page.cost_notes }}{% endif %}</p>
-                    {% endif %}
-                    {% if page.sources %}
-                    <p><strong>Sources:</strong> {{ page.sources }}</p>
-                    {% endif %}
-                </div>
+<div class="card mb-4">
+    <h2 class="card-header" id="building-overview">{{ page.title }} Overview</h2>
+    <div class="card-body">
+        {% if page.date %}
+        <p><strong>Date:</strong> {{ page.archival_date }}{% if page.date_notes %}. {{ page.date_notes }}{% endif %}</p>
+        {% endif %}
+        {% if page.standing %}
+        <p><strong>Standing:</strong> {{ page.standing }}{% if page.standing_notes %}. {{ page.standing_notes }}{% endif %}</p>
+        {% endif %}
+        {% if page.name_history %}
+        <p><strong>Name History:</strong> {{ page.name_history }}</p>
+        {% endif %}
+        {% if page.naming_notes %}
+        <p><strong>Notes on Naming:</strong> {{ page.naming_notes }}</p>
+        {% endif %}
+        {% if page.architect %}
+        <p><strong>Architect:</strong> {{ page.architect }}</p>
+        {% endif %}
+        {% if page.architectural_style %}
+        <p><strong>Architectural Style:</strong> {{ page.architectural_style }}</p>
+        {% endif %}
+        {% if page.description %}
+        <p><strong>Description:</strong> {{ page.description }}</p>
+        {% endif %}
+        {% if page.additions %}
+        <p><strong>Additions:</strong> {{ page.additions }}</p>
+        {% endif %}
+        {% if page.use_history %}
+        <p><strong>Use History:</strong> {{ page.use_history }}</p>
+        {% endif %}
+        {% if page.cost %}
+        <p><strong>Cost:</strong> {{ page.cost }}{% if page.cost_notes %}. {{ page.cost_notes }}{% endif %}</p>
+        {% endif %}
+        {% if page.sources %}
+        <p><strong>Sources:</strong> {{ page.sources }}</p>
+        {% endif %}
+    </div>
+</div>
+
+{% if history_content != "" %}
+<h2 class="h2" id="history">History</h2>
+{{ history_content }}
+{% endif %}
+{% unless images == empty %}
+<h2 id="image-browse" class="mt-5">Browse Images</h2>
+{% endunless %}
+
+{%- endcapture -%}
+
+{% assign jumboId = page.featured_image %}
+{% if jumboId contains '/' %}
+{% assign jumboSrc = jumboId | relative_url %}
+{% else %}
+{% assign jumboItem = site.data[site.metadata] | where: "objectid", jumboId | first %}
+{% capture jumboSrc %}{{ jumboItem.object_location | default: jumboItem.image_small | relative_url }}{% endcapture %}
+{%- endif -%}
+<style>
+    #about-feature {
+        padding: 4rem 0;
+        margin-bottom: 1rem;
+        
+        background-color: #e9ecef;
+        background-image: url({{ jumboSrc }});
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .about-title-box {
+        padding-top: 6em;
+        padding-bottom: 1em;
+    }
+    .about-title {
+        padding-left: 15% !important;
+    }
+    @media screen and (max-width: 576px) {
+        .about-title-box {
+            padding-top: min(6em, 45vh);
+        }
+        .about-title {
+            padding-left: 1rem !important;
+        }
+    }
+</style>
+<div id="about-feature">
+    <div class="about-title-box">    
+        <div class="p-2 text-start text-white bg-dark bg-opacity-75 about-title">
+            <h1 class="display-1">{{ page.title }}</h1>
+        </div>     
+    </div>
+</div>
+
+<div id="about-wrapper">
+    <div id="about-toc-wrapper">
+        {% unless page.toc == false %}
+        <div id="about-toc">
+            <div id="about-toc-title">
+                <button class="btn btn-light" data-bs-toggle="collapse" data-bs-target="#about-toc-list" aria-expanded="false" aria-controls="about-toc-list">
+                    Contents
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+                    </svg>
+                </button>
             </div>
-
-            {% assign history = site.histories | where: 'buildingid', page.objectid | first %}
-            {% assign history_content = history.content | strip %}
-            {% if history_content != "" %}
-            <h3 class="h2">History</h3>
-            {{ history_content }}
-            {% endif %}
-
-            
-            {% unless images == empty %}
-            <h3 id="image-browse" class="mt-5">Images of {{ page.title }}</h3>
-            {% endunless %}
+            <div id="about-toc-list" class="collapse" > 
+            {% include cb/jekyll-toc.html html=all-page-content sanitize=true h_min=1 h_max=3 skip_no_ids=true class="jekyll-toc-list" credits=page.credits %}
+            </div>
         </div>
+        {% endunless %}
     </div>
-    {% unless images == empty %}
-    <div class="row justify-content-center py-4" id="lightgallery">
-        {% for i in images %}
-        <div class="col-md-3">
-            <div class="card text-center mb-3">
-                <a class="spotlight gallery-img" data-download="true" title="{{ i.title | escape }}" data-src="{{ i.object_location | relative_url }}">
-                    <img class="card-img-top lazyload" src="{{ i.image_small | relative_url }}" alt="{{ i.title | escape }}">
-                </a>
-                <div class="card-body">
-                    <div class="card-title">
-                        {{ i.title }}
+    <div id="about-contents-wrapper">
+
+        {{ all-page-content }}
+
+        {% unless images == empty %}
+        <div class="row justify-content-center py-4" id="lightgallery">
+            {% for i in images %}
+            <div class="col-md-3">
+                <div class="card text-center mb-3">
+                    <a class="spotlight gallery-img" data-download="true" title="{{ i.title | escape }}" data-src="{{ i.object_location | relative_url }}">
+                        <img class="card-img-top lazyload" src="{{ i.image_small | relative_url }}" alt="{{ i.title | escape }}">
+                    </a>
+                    <div class="card-body">
+                        <div class="card-title">
+                            {{ i.title }}
+                        </div>
+                        <a href="{{ '/items/' | append: i.objectid | append: '.html' | relative_url }}" class="btn btn-outline-secondary" role="button">View Record</a>
                     </div>
-                    <a href="{{ '/items/' | append: i.objectid | append: '.html' | relative_url }}" class="btn btn-outline-secondary" role="button">View Record</a>
                 </div>
             </div>
+            {% endfor %}
         </div>
-        {% endfor %}
-    </div>
-    {% endunless %}
+        {% endunless %}
 
+    </div>
+    
     {% assign buildingset = site.data.campus-buildings | map: 'objectid' | uniq | compact %}
     {% assign last = buildingset | size | minus: 1 %}
     {% unless page.index_number == 0 %}
@@ -134,15 +177,10 @@ item-meta: true
     {%- endunless -%}
     {%- assign back_url = '/buildings/' | append: buildingset[back] | append: '.html' | relative_url -%}
     {%- assign forward_url = '/buildings/' | append: buildingset[forward] | append: '.html' | relative_url -%}
-    <div class="text-center">
+    <div class="text-center mb-4">
         <a class="btn btn-secondary" href="{{ back_url }}" id="prev-page-button">&laquo; Previous</a>
         <a class="btn btn-secondary" href="{{ '/buildings/index.html' | relative_url }}" >Back to Buildings</a>
         <a class="btn btn-secondary" href="{{ forward_url }}" id="next-page-button">Next &raquo;</a>
     </div>
-    <div id="item-nav">
-        <div class="d-none d-md-block">
-            <a class="previous btn btn-lg btn-secondary" href="{{ back_url }}">&laquo;</a>
-            <a class="next btn btn-lg btn-secondary" href="{{ forward_url }}">&raquo;</a>
-        </div>
-    </div>
-</div>
+
+</div>  
