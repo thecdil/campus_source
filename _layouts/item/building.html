@@ -5,6 +5,7 @@ gallery: true
 item-meta: true
 ---
 {% assign images = site.data[site.metadata] | where_exp: "item", "item.buildingid == page.objectid" %}
+{% assign featured = site.data[site.metadata] | where_exp: "item", "item.objectid == page.featured_image" | first %}
 {% assign history = site.histories | where: 'buildingid', page.objectid | first %}
 {% assign history_content = history.content | strip %}
 
@@ -13,10 +14,8 @@ item-meta: true
 <div class="row">
     <div class="col-md-6 p-4">
         <figure class="figure text-center">
-            <a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">
-                <img class="figure-img img-fluid rounded lazyload"  alt="{{ page.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ page.image_small }}" >
-            </a>
-            <figcaption class="figure-caption"><a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">{{ page.title }}</a></figcaption>
+            <img class="figure-img img-fluid rounded lazyload"  alt="{{ featured.image_alt_text | default: featured.description | default: featured.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ page.image_small }}" >
+            <figcaption class="figure-caption"><a href="{{ '/items/' | append: page.featured_image | append: '.html' | relative_url }}">{{ featured.title }}</a></figcaption>
         </figure>
     </div>
     <div class="col-md-6 p-4">
@@ -77,13 +76,7 @@ item-meta: true
 
 {%- endcapture -%}
 
-{% assign jumboId = page.featured_image %}
-{% if jumboId contains '/' %}
-{% assign jumboSrc = jumboId | relative_url %}
-{% else %}
-{% assign jumboItem = site.data[site.metadata] | where: "objectid", jumboId | first %}
-{% capture jumboSrc %}{{ jumboItem.object_location | default: jumboItem.image_small | relative_url }}{% endcapture %}
-{%- endif -%}
+{% capture jumboSrc %}{{ featured.object_location | default: featured.image_small | relative_url }}{% endcapture %}
 <style>
     #about-feature {
         padding: 4rem 0;
