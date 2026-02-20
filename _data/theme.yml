@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: campus02216
+featured-image: campus02199
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
@@ -72,9 +72,9 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,description,date,date is approximate,subject,campus_location,latitude,longitude,donor,publisher_digital,source,identifier,id number,photo number,building number,rights,rightsstatement,ordering information,format original,type,format,objectid,location_identifier"
+metadata-export-fields: "objectid,title,description,date,date is approximate,subject,campus_location,buildingid,latitude,longitude,donor,source,identifier,id number,photo number,building number,rights,rightsstatement,format_original,type,format,cdmid"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,campus location,donor,type,format"
+metadata-facets-fields: "subject,campus_location,buildingid,type,format"
 
 ##########
 # Compound Objects 

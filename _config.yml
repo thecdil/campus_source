@@ -28,9 +28,9 @@ central-search: true
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: University of Idaho Campus Photographs Collection
+title: Campus Photographs Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Historical photographs documenting the history of the U of I Campus from 1889 to the present
+tagline: Historical photographs documenting the history of the University of Idaho Campus
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "The University of Idaho Campus Photographs Collection features over 3000 images depicting the campus, buildings, and people. Drawn from 'Photo Group 1' (PG1) held by Special Collections and Archives, it contains materials from the founding of the University in 1889 to the present day." 

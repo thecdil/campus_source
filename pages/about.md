@@ -25,6 +25,8 @@ padding: 6em
 From [Ridenbaugh Hall]({{ '/buildings/ridenbaughhall.html' | relative_url }}) (U of I's oldest standing building) to the [Integrated Research and Innovation Center]({{ '/buildings/iric.html' | relative_url }}), each structure on campus holds countless stories about education, community, and design.
 The University of Idaho Campus Photographs Collection features more than three thousand images, ranging from the University’s earliest days in the 1890s through the present, illustrating the construction projects, architectural  drawings, student life, and the evolution of the campus landscape.
 
+{% include feature/image.html objectid="campus00736" %}
+
 Most of the images are drawn Special Collections and Archives' U of I Historic Campus Photographs Collection, which is referred to as Photograph Group 1 (PG1). The collection comprises thousands of images spanning from 1889 to the early 1990s and includes photography of buildings that have been demolished, added on to, or moved (in a couple cases). Color images of recent buildings added to campus since the 1970s have been added for continuity.
 
 The U of I's colleges, schools, and organizations have often changed buildings several times in campus history to accommodate cultural change and academic growth. For example, the Armory is a title that has been owned by three different buildings, one of which no longer exists. Thus, it is very important to note the dates for which one is seeking images. 
