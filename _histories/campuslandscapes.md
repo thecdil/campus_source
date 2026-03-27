@@ -9,7 +9,7 @@ title: Campus Landscapes
 
 The Academic Mall has long served as a central pedestrian artery at the University of Idaho, linking key academic buildings, residence halls, the library, and the ISUB. Its development paralleled the university’s own growth, gradually taking shape as enrollment rose and departments expanded. The opening of Chrisman Hall in 1939, followed by the Agricultural Science Building in 1951, marked early moments in the mall’s emergence as a defined space. Later additions such as the Agricultural Biotechnology Building in 2000 and the IRIC Building in 2016 extended its reach. The university’s Long-Range Campus Development Plan emphasizes the mall as both a practical and symbolic element of the campus—supporting research, learning, and daily life while reinforcing a broader commitment to community and the natural environment.[^1] 
 
-{% include feature/image.html objectid="https://media.uiargonaut.com/wp-content/uploads/2022/11/Anderson_2-scaled.jpg" link="https://www.uiargonaut.com/2022/11/20/our-view-university-of-idaho-in-mourning/" caption="photograph of the Academic Mall, looking south, from Argonaut 2022" %}
+{% include feature/image.html objectid="campus03119;campus03117" %}
 
 ### Design
 
@@ -21,7 +21,7 @@ The mall features interlocking paved walkways bordered by lawns, mature trees, a
 
 ### Vandal Healing Garden 
 
-{% include feature/image.html objectid="https://content-hub.uidaho.edu/api/public/content/8ef510c91b274413a0fc9fdc2ed757c8?v=125e38dd" caption="Vandal Healing Garden, at the time of its dedication in 2024" %}
+{% include feature/image.html objectid="campus03116" caption="Vandal Healing Garden, at the time of its dedication in 2024" %}
 
 The Vandal Healing Garden and Memorial emerged in response to the tragic events of November 13, 2022, when four University of Idaho students—Ethan Chapin, Madison Mogen, Xana Kernodle, and Kaylee Goncalves—were murdered just south of campus. In the aftermath, the College of Art & Architecture proposed a project to honor their lives and the lives of all students who have passed away while enrolled at the university. A community design workshop in September 2023 produced a vision for an interactive space fostering both group gathering and individual reflection. Funded by $285,000 in donations, the project was realized through student labor during the summer of 2024. Participants worked without pay or credit, exemplifying the university’s spirit of solidarity and service. Architecture student Jackson Wiedenfeld reflected, “I wouldn’t change it for anything.” The university dedicated the memorial on August 21, 2024, at the former site of MacLean Field.[^4] 
 
