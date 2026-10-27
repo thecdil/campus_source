@@ -137,6 +137,10 @@ Pictured above is the Agricultural Biotechnology Building (2001). This building 
   - Executive Residence (2019) – 21st-Century Modern
   - Idaho Central Credit Union Arena (2021) – Contemporary / Mimetic
 
+## University of Idaho Historic District
+
+In October 2026, the University of Idaho's Moscow campus was recorded in the National Register of Historic Places (NRHP) in recognition of its significance to the state and the nation's history of higher education. Recognition from the National Park Service, which manages the NRHP, would not have been possible without the dedicated efforts of a team of U of I faculty and students that worked on surveying and developing the district nomination over more than two years. U of I History graduate student Nathan Moody served as the primary author of the nomination, which can be read here: [University of Idaho Historic District Registration Form]({{ '/items/campus03120.html' | relative_url }}). He and other students working on the project were advised by [Dr. Rebecca Scofield](https://www.uidaho.edu/people/rscofield), professor of History; [Phil Mead](https://www.uidaho.edu/people/pmead), associate professor emeritus of Architecture; and Dulce Kersting-Lark, assistant professor in the Library. 
+
 ## Notes
 
 - Nathan J. Moody, “National Register of Historic Places—Registration Form: The University of Idaho Historic District,” initial submission to Idaho SHPO, unpublished, University of Idaho, Moscow, Idaho, May 7, 2025, 7-9.  
